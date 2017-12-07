@@ -185,4 +185,3 @@ plt.annotate(s="WW I", xy=(1915,55))
 plt.annotate(s="WW II", xy=(1941,55))
 plt.show()
 
-
