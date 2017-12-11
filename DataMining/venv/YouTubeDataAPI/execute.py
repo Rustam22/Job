@@ -176,3 +176,16 @@ colorado_2014_ds = get_2014_data(candidates)
 tpr = pd.pivot_table(colorado_2014_ds, values=["commentCount", "favoriteCount", "dislikeCount", "likeCount", "viewCount"], aggfunc='sum', index="candidate_name")
 
 print tpr, "\n\n"
+
+
+
+for candidate, color in zip(candidates, ["r", "b"]):
+    cand = colorado_2014_ds[colorado_2014_ds["candidate_name"]==candidate]
+    by_date = cand["week"].value_counts()
+    by_date = by_date.sort_index()
+    dates = by_date.index
+    plt.plot(dates, by_date.values, "-o", label=candidate, c=color, linewidth=2)
+plt.legend(loc="best")
+plt.ylabel("Videos Published")
+plt.xlabel("Week")
+plt.show()
