@@ -170,6 +170,8 @@ def get_2014_data(candidates):
     return get_data(candidates, publishedAfter="2014-08-04T00:00:00Z", publishedBefore="2014-11-04T00:00:00Z")
 
 
+
+
 #-----------------------Analyzing Colorado Senate Race for 2014-------------------------#
 candidates = ["Cory Gardner", "Mark Udall"] # Cory Gardner (R), Mark Udall (D)*
 colorado_2014_ds = get_2014_data(candidates)
@@ -189,3 +191,218 @@ plt.legend(loc="best")
 plt.ylabel("Videos Published")
 plt.xlabel("Week")
 plt.show()
+
+
+
+for candidate, color in zip(candidates, ["r", "b"]):
+    cand = colorado_2014_ds[colorado_2014_ds["candidate_name"]==candidate]
+    by_date = pd.pivot_table(cand, index=["week"], values=["viewCount"], aggfunc="sum")
+    by_date = by_date.sort_index()
+    dates = by_date.index
+    plt.plot(dates, by_date.values, "-o", label=candidate, c=color, linewidth=2)
+plt.legend(loc="best")
+plt.ylabel("Videos viewCount")
+plt.xlabel("Week")
+plt.show()
+
+
+for candidate, color in zip(candidates, ["r", "b"]):
+    cand = colorado_2014_ds[colorado_2014_ds["candidate_name"]==candidate]
+    by_date = pd.pivot_table(cand, index=["week"], values=["likeCount"], aggfunc="sum")
+    by_date = by_date.sort_index()
+    dates = by_date.index
+    plt.plot(dates, by_date.values, "-o", label=candidate, c=color, linewidth=2)
+plt.legend(loc="best")
+plt.ylabel("Videos likeCount")
+plt.xlabel("Week")
+plt.show()
+
+
+for candidate, color in zip(candidates, ["r", "b"]):
+    cand = colorado_2014_ds[colorado_2014_ds["candidate_name"]==candidate]
+    by_date = pd.pivot_table(cand, index=["week"], values=["dislikeCount"], aggfunc="sum")
+    by_date = by_date.sort_index()
+    dates = by_date.index
+    plt.plot(dates, by_date.values, "-o", label=candidate, c=color, linewidth=2)
+plt.legend(loc="best")
+plt.ylabel("Videos dislikeCount")
+plt.xlabel("Week")
+plt.show()
+
+
+
+
+
+
+
+#-----------------------How Predective Was It in 2012?-------------------------#
+#-----------------------Virginia Senate - Allen vs. Kaine-------------------------#
+candidates = ["George Allen", "Tim Kaine"] # George Allen (R), Tim Kaine (D)Winner
+va_2012_ds = get_2012_data(candidates)
+pd.pivot_table(va_2012_ds, values=["commentCount", "favoriteCount", "dislikeCount", "likeCount", "viewCount"],
+               aggfunc='sum', index="candidate_name")
+
+
+for candidate, color in zip(candidates, ["r", "b"]):
+    cand = va_2012_ds[va_2012_ds["candidate_name"]==candidate]
+    by_date = cand["week"].value_counts()
+    by_date = by_date.sort_index()
+    dates = by_date.index
+    plt.plot(dates, by_date.values, "-o", label=candidate, c=color, linewidth=2)
+plt.legend(loc="best")
+plt.ylabel("Videos Published")
+plt.xlabel("Week")
+plt.show()
+
+
+for candidate, color in zip(candidates, ["r", "b"]):
+    cand = va_2012_ds[va_2012_ds["candidate_name"]==candidate]
+    by_date = pd.pivot_table(cand, index=["week"], values=["viewCount"], aggfunc="sum")
+    by_date = by_date.sort_index()
+    dates = by_date.index
+    plt.plot(dates, by_date.values, "-o", label=candidate, c=color, linewidth=2)
+plt.legend(loc="best")
+plt.ylabel("Videos viewCount")
+plt.xlabel("Week")
+plt.show()
+
+
+for candidate, color in zip(candidates, ["r", "b"]):
+    cand = va_2012_ds[va_2012_ds["candidate_name"]==candidate]
+    by_date = pd.pivot_table(cand, index=["week"], values=["likeCount"], aggfunc="sum")
+    by_date = by_date.sort_index()
+    dates = by_date.index
+    plt.plot(dates, by_date.values, "-o", label=candidate, c=color, linewidth=2)
+plt.legend(loc="best")
+plt.ylabel("Videos likeCount")
+plt.xlabel("Week")
+plt.show()
+
+
+for candidate, color in zip(candidates, ["r", "b"]):
+    cand = va_2012_ds[va_2012_ds["candidate_name"]==candidate]
+    by_date = pd.pivot_table(cand, index=["week"], values=["dislikeCount"], aggfunc="sum")
+    by_date = by_date.sort_index()
+    dates = by_date.index
+    plt.plot(dates, by_date.values, "-o", label=candidate, c=color, linewidth=2)
+plt.legend(loc="best")
+plt.ylabel("Videos dislikeCount")
+plt.xlabel("Week")
+plt.show()
+
+
+
+
+
+
+
+#-----------------------Nevada Senate - Heller vs. Berkley-------------------------#
+candidates = ["Dean Heller", "Shelley Berkley"] # Dean Heller (R)*Winnner, Shelley Berkley (D)
+nv_2012_ds = get_2012_data(candidates)
+print pd.pivot_table(nv_2012_ds, values=["commentCount", "favoriteCount", "dislikeCount", "likeCount", "viewCount"],
+               aggfunc='sum', index="candidate_name")
+
+for candidate, color in zip(candidates, ["r", "b"]):
+    cand = nv_2012_ds[nv_2012_ds["candidate_name"]==candidate]
+    by_date = cand["week"].value_counts()
+    by_date = by_date.sort_index()
+    dates = by_date.index
+    plt.plot(dates, by_date.values, "-o", label=candidate, c=color, linewidth=2)
+plt.legend(loc="best")
+plt.ylabel("Videos Published")
+plt.xlabel("Week")
+plt.show()
+
+for candidate, color in zip(candidates, ["r", "b"]):
+    cand = nv_2012_ds[nv_2012_ds["candidate_name"]==candidate]
+    by_date = pd.pivot_table(cand, index=["week"], values=["viewCount"], aggfunc="sum")
+    by_date = by_date.sort_index()
+    dates = by_date.index
+    plt.plot(dates, by_date.values, "-o", label=candidate, c=color, linewidth=2)
+plt.legend(loc="best")
+plt.ylabel("Videos viewCount")
+plt.xlabel("Week")
+plt.show()
+
+for candidate, color in zip(candidates, ["r", "b"]):
+    cand = nv_2012_ds[nv_2012_ds["candidate_name"]==candidate]
+    by_date = pd.pivot_table(cand, index=["week"], values=["likeCount"], aggfunc="sum")
+    by_date = by_date.sort_index()
+    dates = by_date.index
+    plt.plot(dates, by_date.values, "-o", label=candidate, c=color, linewidth=2)
+plt.legend(loc="best")
+plt.ylabel("Videos likeCount")
+plt.xlabel("Week")
+plt.show()
+
+for candidate, color in zip(candidates, ["r", "b"]):
+    cand = nv_2012_ds[nv_2012_ds["candidate_name"]==candidate]
+    by_date = pd.pivot_table(cand, index=["week"], values=["dislikeCount"], aggfunc="sum")
+    by_date = by_date.sort_index()
+    dates = by_date.index
+    plt.plot(dates, by_date.values, "-o", label=candidate, c=color, linewidth=2)
+plt.legend(loc="best")
+plt.ylabel("Videos dislikeCount")
+plt.xlabel("Week")
+plt.show()
+
+
+
+
+
+
+
+
+
+
+url = "http://www.senate.gov/general/contact_information/senators_cfm.xml"
+response = requests.get(url)
+tree = etree.fromstring(str(response.text))
+print tree, "\n\n"
+
+member_full = [member.xpath("member_full")[0].text for member in tree.xpath("//member")]
+senators = pd.DataFrame(member_full, columns=["member_full"])
+
+senators["member_full"] = member_full
+senators["last_name"] = [member.xpath("last_name")[0].text for member in tree.xpath("//member")]
+senators["first_name"] = [member.xpath("first_name")[0].text for member in tree.xpath("//member")]
+senators["party"] = [member.xpath("party")[0].text for member in tree.xpath("//member")]
+senators["state"] = [member.xpath("state")[0].text for member in tree.xpath("//member")]
+senators["address"] = [member.xpath("address")[0].text for member in tree.xpath("//member")]
+senators["phone"] = [member.xpath("phone")[0].text for member in tree.xpath("//member")]
+senators["website"] = [member.xpath("website")[0].text for member in tree.xpath("//member")]
+senators["bioguide_id"] = [member.xpath("bioguide_id")[0].text for member in tree.xpath("//member")]
+senators["class"] = [member.xpath("class")[0].text for member in tree.xpath("//member")]
+
+print senators, "\n\n"
+
+
+by_party = senators["party"].value_counts()
+by_party.sort(ascending=False)
+print by_party
+
+color_dict = {"D": "b",
+              "R": "r",
+              "I": "g"}
+
+
+labels = ["%s: %s" % (by_party.index[index], value) for index, value in enumerate(by_party)]
+colors = list(pd.Series(by_party.index).map(color_dict))
+
+plt.figure()
+plt.axis("equal")
+plt.pie(by_party.values, labels=labels, colors=colors, shadow=True, explode=np.zeros(len(by_party)) + 0.04)
+plt.show()
+
+
+fig = plt.figure()
+axes = fig.add_subplot(111)
+axes.barh(range(len(by_party.index)), by_party.values, color=colors)
+plt.box(on="off")
+axes.axvline(x=50, color="black", alpha=0.7, linewidth=2)
+axes.yaxis.set_ticks([item + 0.4 for item in range(len(by_party.index))])
+axes.yaxis.set_ticklabels(by_party.index, minor=False)
+plt.xlabel("$113^{th}$ Senate Seats Controlled by Party")
+plt.show()
+
+
