@@ -55,7 +55,12 @@ a {
   margin-top: 100px; }
 
 .bg-1 {
-  background-image: url(../images/happy-people.png); }
+  background-image: url(../images/happy-people.png);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 
 .bg-opacity {
   position: relative; }
@@ -398,55 +403,55 @@ a:active {
 --*/
 .call-to-action {
   padding: 90px 0px;
-  background-attachment: fixed;
-  background-repeat: no-repeat;
-  background-size: cover;
+/*--background-attachment: fixed;--*/
+background-repeat: no-repeat;
+background-size: cover;
+color: #fff;
+position: relative; }
+.call-to-action .block h2 {
+  margin-bottom: 6px;
   color: #fff;
-  position: relative; }
-  .call-to-action .block h2 {
-    margin-bottom: 6px;
-    color: #fff;
-    padding-bottom: 0; }
-  .call-to-action .block p {
-    padding-right: 30px;
-    color: #fff; }
-  .call-to-action .block .input-group {
-    margin-top: 30px; }
-    .call-to-action .block .input-group .btn-main {
-      padding: 13px 40px; }
-    .call-to-action .block .input-group input {
-      height: 50px;
-      border-top-left-radius: 40px;
-      border-bottom-left-radius: 40px;
-      border: none;
-      padding-left: 15px;
-      box-shadow: none; }
+  padding-bottom: 0; }
+.call-to-action .block p {
+  padding-right: 30px;
+  color: #fff; }
+.call-to-action .block .input-group {
+  margin-top: 30px; }
+  .call-to-action .block .input-group .btn-main {
+    padding: 13px 40px; }
+  .call-to-action .block .input-group input {
+    height: 50px;
+    border-top-left-radius: 40px;
+    border-bottom-left-radius: 40px;
+    border: none;
+    padding-left: 15px;
+    box-shadow: none; }
 
 footer {
-  text-align: center;
-  background: #f4f4f4;
-  padding: 50px 0px; }
-  footer .footer-logo {
-    color: #555; }
-  footer p.copyright-text {
-    font-weight: 300;
-    font-size: 12px;
-    color: #888;
-    letter-spacing: 3px;
-    margin-top: 15px; }
-    footer p.copyright-text a {
-      color: #282828; }
-      footer p.copyright-text a:hover {
-        text-decoration: none; }
-        
+text-align: center;
+background: #f4f4f4;
+padding: 50px 0px; }
+footer .footer-logo {
+  color: #555; }
+footer p.copyright-text {
+  font-weight: 300;
+  font-size: 12px;
+  color: #888;
+  letter-spacing: 3px;
+  margin-top: 15px; }
+  footer p.copyright-text a {
+    color: #282828; }
+    footer p.copyright-text a:hover {
+      text-decoration: none; }
+
 .happy-people {
-    border-radius:3px;
-    margin-top: 80px;
-    width: 450px;
+  border-radius:3px;
+  margin-top: 80px;
+  width: 450px;
 }
 .chi-siamo img {
-     
-      border-radius: 3;
-      width: 250px;
-      }
+
+    border-radius: 3;
+    width: 250px;
+    }
 }
