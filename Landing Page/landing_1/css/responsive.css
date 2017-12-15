@@ -5,9 +5,11 @@
       float: none; } 
 }
 
-@media (max-width: 767px) {
+@media (max-width: 1050px) {
     .happy-people {
         margin-top: initial;
+        width: 100%;
+        margin-bottom: 35px;
     }
 }
 @media (min-width: 1024px) {
