@@ -1,28 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="dataSourceStorageLocal">
-    <data-source name="db.sqlite3" uuid="5cca1655-9002-46b1-aa89-195604fa83c9">
-      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
-      <secret-storage>master_key</secret-storage>
+    <data-source name="Django default" uuid="29e35e61-dd4b-49e7-b584-75d452b8fe59">
+      <database-info product="SQLite" version="3.16.1" jdbc-version="2.1" driver-name="SQLiteJDBC" driver-version="native" />
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
       <auth-required>false</auth-required>
-      <first-sync>true</first-sync>
-    </data-source>
-    <data-source name="db.sqlite3 [2]" uuid="f87f28ee-0b95-4085-bbe4-64e8230bd0b5">
-      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
-      <secret-storage>master_key</secret-storage>
-      <auth-required>false</auth-required>
-      <first-sync>true</first-sync>
-    </data-source>
-    <data-source name="Django default" uuid="362918ad-f08a-4fff-bd16-a22ec92bc9bf">
-      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
-      <auth-required>false</auth-required>
-      <first-sync>true</first-sync>
-    </data-source>
-    <data-source name="db.sqlite3 [3]" uuid="6ecc76f3-1f2e-4769-ae0a-c52741c85c79">
-      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
-      <secret-storage>master_key</secret-storage>
-      <auth-required>false</auth-required>
-      <first-sync>true</first-sync>
+      <introspection-schemas>*:main</introspection-schemas>
     </data-source>
   </component>
 </project>
