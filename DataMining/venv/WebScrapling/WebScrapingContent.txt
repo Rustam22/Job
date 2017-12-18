@@ -4,205 +4,205 @@
 3) Whole content 
   1) Year: 1901
       a.b) Subject: Physics
-           a.c) Winner name: Wilhelm Röntgen
+           a.c) Winner name: b'Wilhelm R\xc3\xb6ntgen'
       a.b) Subject: Chemistry
-           a.c) Winner name: Jacobus Henricus van 't Hoff
+           a.c) Winner name: b"Jacobus Henricus van 't Hoff"
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Emil Adolf von Behring
+           a.c) Winner name: b'Emil Adolf von Behring'
       a.b) Subject: Literature
-           a.c) Winner name: Sully Prudhomme
+           a.c) Winner name: b'Sully Prudhomme'
       a.b) Subject: Peace
-           a.c) Winner name: Henry Dunant
-           a.c) Winner name: Frédéric Passy
+           a.c) Winner name: b'Henry Dunant'
+           a.c) Winner name: b'Fr\xc3\xa9d\xc3\xa9ric Passy'
       a.b) Subject: Economics
 
   2) Year: 1902
       a.b) Subject: Physics
-           a.c) Winner name: Hendrik Lorentz
-           a.c) Winner name: Pieter Zeeman
+           a.c) Winner name: b'Hendrik Lorentz'
+           a.c) Winner name: b'Pieter Zeeman'
       a.b) Subject: Chemistry
-           a.c) Winner name: Hermann Emil Fischer
+           a.c) Winner name: b'Hermann Emil Fischer'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Ronald Ross
+           a.c) Winner name: b'Ronald Ross'
       a.b) Subject: Literature
-           a.c) Winner name: Theodor Mommsen
+           a.c) Winner name: b'Theodor Mommsen'
       a.b) Subject: Peace
-           a.c) Winner name: Élie Ducommun
-           a.c) Winner name: Charles Albert Gobat
+           a.c) Winner name: b'\xc3\x89lie Ducommun'
+           a.c) Winner name: b'Charles Albert Gobat'
       a.b) Subject: Economics
 
   3) Year: 1903
       a.b) Subject: Physics
-           a.c) Winner name: Henri Becquerel
-           a.c) Winner name: Pierre Curie
-           a.c) Winner name: Marie Curie
+           a.c) Winner name: b'Henri Becquerel'
+           a.c) Winner name: b'Pierre Curie'
+           a.c) Winner name: b'Marie Curie'
       a.b) Subject: Chemistry
-           a.c) Winner name: Svante Arrhenius
+           a.c) Winner name: b'Svante Arrhenius'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Niels Ryberg Finsen
+           a.c) Winner name: b'Niels Ryberg Finsen'
       a.b) Subject: Literature
-           a.c) Winner name: Bjørnstjerne Bjørnson
+           a.c) Winner name: b'Bj\xc3\xb8rnstjerne Bj\xc3\xb8rnson'
       a.b) Subject: Peace
-           a.c) Winner name: Randal Cremer
+           a.c) Winner name: b'Randal Cremer'
       a.b) Subject: Economics
 
   4) Year: 1904
       a.b) Subject: Physics
-           a.c) Winner name: John Strutt, 3rd Baron Rayleigh
+           a.c) Winner name: b'John Strutt, 3rd Baron Rayleigh'
       a.b) Subject: Chemistry
-           a.c) Winner name: William Ramsay
+           a.c) Winner name: b'William Ramsay'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Ivan Pavlov
+           a.c) Winner name: b'Ivan Pavlov'
       a.b) Subject: Literature
-           a.c) Winner name: Frédéric Mistral
-           a.c) Winner name: José Echegaray
+           a.c) Winner name: b'Fr\xc3\xa9d\xc3\xa9ric Mistral'
+           a.c) Winner name: b'Jos\xc3\xa9 Echegaray'
       a.b) Subject: Peace
       a.b) Subject: Economics
 
   5) Year: 1905
       a.b) Subject: Physics
-           a.c) Winner name: Philipp Lenard
+           a.c) Winner name: b'Philipp Lenard'
       a.b) Subject: Chemistry
-           a.c) Winner name: Adolf von Baeyer
+           a.c) Winner name: b'Adolf von Baeyer'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Robert Koch
+           a.c) Winner name: b'Robert Koch'
       a.b) Subject: Literature
-           a.c) Winner name: Henryk Sienkiewicz
+           a.c) Winner name: b'Henryk Sienkiewicz'
       a.b) Subject: Peace
-           a.c) Winner name: Bertha von Suttner
+           a.c) Winner name: b'Bertha von Suttner'
       a.b) Subject: Economics
 
   6) Year: 1906
       a.b) Subject: Physics
-           a.c) Winner name: J. J. Thomson
+           a.c) Winner name: b'J. J. Thomson'
       a.b) Subject: Chemistry
-           a.c) Winner name: Henri Moissan
+           a.c) Winner name: b'Henri Moissan'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Camillo Golgi
-           a.c) Winner name: Santiago Ramón y Cajal
+           a.c) Winner name: b'Camillo Golgi'
+           a.c) Winner name: b'Santiago Ram\xc3\xb3n y Cajal'
       a.b) Subject: Literature
-           a.c) Winner name: Giosuè Carducci
+           a.c) Winner name: b'Giosu\xc3\xa8 Carducci'
       a.b) Subject: Peace
-           a.c) Winner name: Theodore Roosevelt
+           a.c) Winner name: b'Theodore Roosevelt'
       a.b) Subject: Economics
 
   7) Year: 1907
       a.b) Subject: Physics
-           a.c) Winner name: Albert Abraham Michelson
+           a.c) Winner name: b'Albert Abraham Michelson'
       a.b) Subject: Chemistry
-           a.c) Winner name: Eduard Buchner
+           a.c) Winner name: b'Eduard Buchner'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Charles Louis Alphonse Laveran
+           a.c) Winner name: b'Charles Louis Alphonse Laveran'
       a.b) Subject: Literature
-           a.c) Winner name: Rudyard Kipling
+           a.c) Winner name: b'Rudyard Kipling'
       a.b) Subject: Peace
-           a.c) Winner name: Ernesto Teodoro Moneta
-           a.c) Winner name: Louis Renault (jurist)
+           a.c) Winner name: b'Ernesto Teodoro Moneta'
+           a.c) Winner name: b'Louis Renault (jurist)'
       a.b) Subject: Economics
 
   8) Year: 1908
       a.b) Subject: Physics
-           a.c) Winner name: Gabriel Lippmann
+           a.c) Winner name: b'Gabriel Lippmann'
       a.b) Subject: Chemistry
-           a.c) Winner name: Ernest Rutherford
+           a.c) Winner name: b'Ernest Rutherford'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Élie Metchnikoff
-           a.c) Winner name: Paul Ehrlich
+           a.c) Winner name: b'\xc3\x89lie Metchnikoff'
+           a.c) Winner name: b'Paul Ehrlich'
       a.b) Subject: Literature
-           a.c) Winner name: Rudolf Christoph Eucken
+           a.c) Winner name: b'Rudolf Christoph Eucken'
       a.b) Subject: Peace
-           a.c) Winner name: Klas Pontus Arnoldson
-           a.c) Winner name: Fredrik Bajer
+           a.c) Winner name: b'Klas Pontus Arnoldson'
+           a.c) Winner name: b'Fredrik Bajer'
       a.b) Subject: Economics
 
   9) Year: 1909
       a.b) Subject: Physics
-           a.c) Winner name: Karl Ferdinand Braun
-           a.c) Winner name: Guglielmo Marconi
+           a.c) Winner name: b'Karl Ferdinand Braun'
+           a.c) Winner name: b'Guglielmo Marconi'
       a.b) Subject: Chemistry
-           a.c) Winner name: Wilhelm Ostwald
+           a.c) Winner name: b'Wilhelm Ostwald'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Emil Theodor Kocher
+           a.c) Winner name: b'Emil Theodor Kocher'
       a.b) Subject: Literature
-           a.c) Winner name: Selma Lagerlöf
+           a.c) Winner name: b'Selma Lagerl\xc3\xb6f'
       a.b) Subject: Peace
-           a.c) Winner name: Auguste Marie François Beernaert
-           a.c) Winner name: Paul-Henri-Benjamin d'Estournelles de Constant
+           a.c) Winner name: b'Auguste Marie Fran\xc3\xa7ois Beernaert'
+           a.c) Winner name: b"Paul-Henri-Benjamin d'Estournelles de Constant"
       a.b) Subject: Economics
 
   10) Year: 1910
       a.b) Subject: Physics
-           a.c) Winner name: Johannes Diderik van der Waals
+           a.c) Winner name: b'Johannes Diderik van der Waals'
       a.b) Subject: Chemistry
-           a.c) Winner name: Otto Wallach
+           a.c) Winner name: b'Otto Wallach'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Albrecht Kossel
+           a.c) Winner name: b'Albrecht Kossel'
       a.b) Subject: Literature
-           a.c) Winner name: Paul Heyse
+           a.c) Winner name: b'Paul Heyse'
       a.b) Subject: Peace
       a.b) Subject: Economics
 
   11) Year: 1911
       a.b) Subject: Physics
-           a.c) Winner name: Wilhelm Wien
+           a.c) Winner name: b'Wilhelm Wien'
       a.b) Subject: Chemistry
-           a.c) Winner name: Marie Skłodowska-Curie
+           a.c) Winner name: b'Marie Sk\xc5\x82odowska-Curie'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Allvar Gullstrand
+           a.c) Winner name: b'Allvar Gullstrand'
       a.b) Subject: Literature
-           a.c) Winner name: Maurice Maeterlinck
+           a.c) Winner name: b'Maurice Maeterlinck'
       a.b) Subject: Peace
-           a.c) Winner name: Tobias Asser
-           a.c) Winner name: Alfred Hermann Fried
+           a.c) Winner name: b'Tobias Asser'
+           a.c) Winner name: b'Alfred Hermann Fried'
       a.b) Subject: Economics
 
   12) Year: 1912
       a.b) Subject: Physics
-           a.c) Winner name: Gustaf Dalén
+           a.c) Winner name: b'Gustaf Dal\xc3\xa9n'
       a.b) Subject: Chemistry
-           a.c) Winner name: Victor Grignard
-           a.c) Winner name: Paul Sabatier (chemist)
+           a.c) Winner name: b'Victor Grignard'
+           a.c) Winner name: b'Paul Sabatier (chemist)'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Alexis Carrel
+           a.c) Winner name: b'Alexis Carrel'
       a.b) Subject: Literature
-           a.c) Winner name: Gerhart Hauptmann
+           a.c) Winner name: b'Gerhart Hauptmann'
       a.b) Subject: Peace
-           a.c) Winner name: Elihu Root
+           a.c) Winner name: b'Elihu Root'
       a.b) Subject: Economics
 
   13) Year: 1913
       a.b) Subject: Physics
-           a.c) Winner name: Heike Kamerlingh Onnes
+           a.c) Winner name: b'Heike Kamerlingh Onnes'
       a.b) Subject: Chemistry
-           a.c) Winner name: Alfred Werner
+           a.c) Winner name: b'Alfred Werner'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Charles Richet
+           a.c) Winner name: b'Charles Richet'
       a.b) Subject: Literature
-           a.c) Winner name: Rabindranath Tagore
+           a.c) Winner name: b'Rabindranath Tagore'
       a.b) Subject: Peace
-           a.c) Winner name: Henri La Fontaine
+           a.c) Winner name: b'Henri La Fontaine'
       a.b) Subject: Economics
 
   14) Year: 1914
       a.b) Subject: Physics
-           a.c) Winner name: Max von Laue
+           a.c) Winner name: b'Max von Laue'
       a.b) Subject: Chemistry
-           a.c) Winner name: Theodore William Richards
+           a.c) Winner name: b'Theodore William Richards'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Robert Bárány
+           a.c) Winner name: b'Robert B\xc3\xa1r\xc3\xa1ny'
       a.b) Subject: Literature
       a.b) Subject: Peace
       a.b) Subject: Economics
 
   15) Year: 1915
       a.b) Subject: Physics
-           a.c) Winner name: William Henry Bragg
-           a.c) Winner name: William Lawrence Bragg
+           a.c) Winner name: b'William Henry Bragg'
+           a.c) Winner name: b'William Lawrence Bragg'
       a.b) Subject: Chemistry
-           a.c) Winner name: Richard Willstätter
+           a.c) Winner name: b'Richard Willst\xc3\xa4tter'
       a.b) Subject: Physiology or Medicine
       a.b) Subject: Literature
-           a.c) Winner name: Romain Rolland
+           a.c) Winner name: b'Romain Rolland'
       a.b) Subject: Peace
       a.b) Subject: Economics
 
@@ -211,26 +211,26 @@
       a.b) Subject: Chemistry
       a.b) Subject: Physiology or Medicine
       a.b) Subject: Literature
-           a.c) Winner name: Verner von Heidenstam
+           a.c) Winner name: b'Verner von Heidenstam'
       a.b) Subject: Peace
       a.b) Subject: Economics
 
   17) Year: 1917
       a.b) Subject: Physics
-           a.c) Winner name: Charles Glover Barkla
+           a.c) Winner name: b'Charles Glover Barkla'
       a.b) Subject: Chemistry
       a.b) Subject: Physiology or Medicine
       a.b) Subject: Literature
-           a.c) Winner name: Karl Adolph Gjellerup
-           a.c) Winner name: Henrik Pontoppidan
+           a.c) Winner name: b'Karl Adolph Gjellerup'
+           a.c) Winner name: b'Henrik Pontoppidan'
       a.b) Subject: Peace
       a.b) Subject: Economics
 
   18) Year: 1918
       a.b) Subject: Physics
-           a.c) Winner name: Max Planck
+           a.c) Winner name: b'Max Planck'
       a.b) Subject: Chemistry
-           a.c) Winner name: Fritz Haber
+           a.c) Winner name: b'Fritz Haber'
       a.b) Subject: Physiology or Medicine
       a.b) Subject: Literature
       a.b) Subject: Peace
@@ -238,282 +238,282 @@
 
   19) Year: 1919
       a.b) Subject: Physics
-           a.c) Winner name: Johannes Stark
+           a.c) Winner name: b'Johannes Stark'
       a.b) Subject: Chemistry
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Jules Bordet
+           a.c) Winner name: b'Jules Bordet'
       a.b) Subject: Literature
-           a.c) Winner name: Carl Spitteler
+           a.c) Winner name: b'Carl Spitteler'
       a.b) Subject: Peace
-           a.c) Winner name: Woodrow Wilson
+           a.c) Winner name: b'Woodrow Wilson'
       a.b) Subject: Economics
 
   20) Year: 1920
       a.b) Subject: Physics
-           a.c) Winner name: Charles Édouard Guillaume
+           a.c) Winner name: b'Charles \xc3\x89douard Guillaume'
       a.b) Subject: Chemistry
-           a.c) Winner name: Walther Nernst
+           a.c) Winner name: b'Walther Nernst'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: August Krogh
+           a.c) Winner name: b'August Krogh'
       a.b) Subject: Literature
-           a.c) Winner name: Knut Hamsun
+           a.c) Winner name: b'Knut Hamsun'
       a.b) Subject: Peace
-           a.c) Winner name: Léon Bourgeois
+           a.c) Winner name: b'L\xc3\xa9on Bourgeois'
       a.b) Subject: Economics
 
   21) Year: 1921
       a.b) Subject: Physics
-           a.c) Winner name: Albert Einstein
+           a.c) Winner name: b'Albert Einstein'
       a.b) Subject: Chemistry
-           a.c) Winner name: Frederick Soddy
+           a.c) Winner name: b'Frederick Soddy'
       a.b) Subject: Physiology or Medicine
       a.b) Subject: Literature
-           a.c) Winner name: Anatole France
+           a.c) Winner name: b'Anatole France'
       a.b) Subject: Peace
-           a.c) Winner name: Hjalmar Branting
-           a.c) Winner name: Christian Lous Lange
+           a.c) Winner name: b'Hjalmar Branting'
+           a.c) Winner name: b'Christian Lous Lange'
       a.b) Subject: Economics
 
   22) Year: 1922
       a.b) Subject: Physics
-           a.c) Winner name: Niels Bohr
+           a.c) Winner name: b'Niels Bohr'
       a.b) Subject: Chemistry
-           a.c) Winner name: Francis William Aston
+           a.c) Winner name: b'Francis William Aston'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Archibald Hill
-           a.c) Winner name: Otto Fritz Meyerhof
+           a.c) Winner name: b'Archibald Hill'
+           a.c) Winner name: b'Otto Fritz Meyerhof'
       a.b) Subject: Literature
-           a.c) Winner name: Jacinto Benavente
+           a.c) Winner name: b'Jacinto Benavente'
       a.b) Subject: Peace
-           a.c) Winner name: Fridtjof Nansen
+           a.c) Winner name: b'Fridtjof Nansen'
       a.b) Subject: Economics
 
   23) Year: 1923
       a.b) Subject: Physics
-           a.c) Winner name: Robert Andrews Millikan
+           a.c) Winner name: b'Robert Andrews Millikan'
       a.b) Subject: Chemistry
-           a.c) Winner name: Fritz Pregl
+           a.c) Winner name: b'Fritz Pregl'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Frederick Banting
-           a.c) Winner name: John James Rickard Macleod
+           a.c) Winner name: b'Frederick Banting'
+           a.c) Winner name: b'John James Rickard Macleod'
       a.b) Subject: Literature
-           a.c) Winner name: W. B. Yeats
+           a.c) Winner name: b'W. B. Yeats'
       a.b) Subject: Peace
       a.b) Subject: Economics
 
   24) Year: 1924
       a.b) Subject: Physics
-           a.c) Winner name: Manne Siegbahn
+           a.c) Winner name: b'Manne Siegbahn'
       a.b) Subject: Chemistry
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Willem Einthoven
+           a.c) Winner name: b'Willem Einthoven'
       a.b) Subject: Literature
-           a.c) Winner name: Władysław Reymont
+           a.c) Winner name: b'W\xc5\x82adys\xc5\x82aw Reymont'
       a.b) Subject: Peace
       a.b) Subject: Economics
 
   25) Year: 1925
       a.b) Subject: Physics
-           a.c) Winner name: James Franck
-           a.c) Winner name: Gustav Ludwig Hertz
+           a.c) Winner name: b'James Franck'
+           a.c) Winner name: b'Gustav Ludwig Hertz'
       a.b) Subject: Chemistry
-           a.c) Winner name: Richard Adolf Zsigmondy
+           a.c) Winner name: b'Richard Adolf Zsigmondy'
       a.b) Subject: Physiology or Medicine
       a.b) Subject: Literature
-           a.c) Winner name: George Bernard Shaw
+           a.c) Winner name: b'George Bernard Shaw'
       a.b) Subject: Peace
-           a.c) Winner name: Austen Chamberlain
-           a.c) Winner name: Charles G. Dawes
+           a.c) Winner name: b'Austen Chamberlain'
+           a.c) Winner name: b'Charles G. Dawes'
       a.b) Subject: Economics
 
   26) Year: 1926
       a.b) Subject: Physics
-           a.c) Winner name: Jean Baptiste Perrin
+           a.c) Winner name: b'Jean Baptiste Perrin'
       a.b) Subject: Chemistry
-           a.c) Winner name: Theodor Svedberg
+           a.c) Winner name: b'Theodor Svedberg'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Johannes Fibiger
+           a.c) Winner name: b'Johannes Fibiger'
       a.b) Subject: Literature
-           a.c) Winner name: Grazia Deledda
+           a.c) Winner name: b'Grazia Deledda'
       a.b) Subject: Peace
-           a.c) Winner name: Aristide Briand
-           a.c) Winner name: Gustav Stresemann
+           a.c) Winner name: b'Aristide Briand'
+           a.c) Winner name: b'Gustav Stresemann'
       a.b) Subject: Economics
 
   27) Year: 1927
       a.b) Subject: Physics
-           a.c) Winner name: Arthur Compton
-           a.c) Winner name: Charles Thomson Rees Wilson
+           a.c) Winner name: b'Arthur Compton'
+           a.c) Winner name: b'Charles Thomson Rees Wilson'
       a.b) Subject: Chemistry
-           a.c) Winner name: Heinrich Otto Wieland
+           a.c) Winner name: b'Heinrich Otto Wieland'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Julius Wagner-Jauregg
+           a.c) Winner name: b'Julius Wagner-Jauregg'
       a.b) Subject: Literature
-           a.c) Winner name: Henri Bergson
+           a.c) Winner name: b'Henri Bergson'
       a.b) Subject: Peace
-           a.c) Winner name: Ferdinand Buisson
-           a.c) Winner name: Ludwig Quidde
+           a.c) Winner name: b'Ferdinand Buisson'
+           a.c) Winner name: b'Ludwig Quidde'
       a.b) Subject: Economics
 
   28) Year: 1928
       a.b) Subject: Physics
-           a.c) Winner name: Owen Willans Richardson
+           a.c) Winner name: b'Owen Willans Richardson'
       a.b) Subject: Chemistry
-           a.c) Winner name: Adolf Otto Reinhold Windaus
+           a.c) Winner name: b'Adolf Otto Reinhold Windaus'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Charles Nicolle
+           a.c) Winner name: b'Charles Nicolle'
       a.b) Subject: Literature
-           a.c) Winner name: Sigrid Undset
+           a.c) Winner name: b'Sigrid Undset'
       a.b) Subject: Peace
       a.b) Subject: Economics
 
   29) Year: 1929
       a.b) Subject: Physics
-           a.c) Winner name: Louis de Broglie
+           a.c) Winner name: b'Louis de Broglie'
       a.b) Subject: Chemistry
-           a.c) Winner name: Arthur Harden
-           a.c) Winner name: Hans von Euler-Chelpin
+           a.c) Winner name: b'Arthur Harden'
+           a.c) Winner name: b'Hans von Euler-Chelpin'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Christiaan Eijkman
-           a.c) Winner name: Frederick Gowland Hopkins
+           a.c) Winner name: b'Christiaan Eijkman'
+           a.c) Winner name: b'Frederick Gowland Hopkins'
       a.b) Subject: Literature
-           a.c) Winner name: Thomas Mann
+           a.c) Winner name: b'Thomas Mann'
       a.b) Subject: Peace
-           a.c) Winner name: Frank B. Kellogg
+           a.c) Winner name: b'Frank B. Kellogg'
       a.b) Subject: Economics
 
   30) Year: 1930
       a.b) Subject: Physics
-           a.c) Winner name: C. V. Raman
+           a.c) Winner name: b'C. V. Raman'
       a.b) Subject: Chemistry
-           a.c) Winner name: Hans Fischer
+           a.c) Winner name: b'Hans Fischer'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Karl Landsteiner
+           a.c) Winner name: b'Karl Landsteiner'
       a.b) Subject: Literature
-           a.c) Winner name: Sinclair Lewis
+           a.c) Winner name: b'Sinclair Lewis'
       a.b) Subject: Peace
-           a.c) Winner name: Nathan Söderblom
+           a.c) Winner name: b'Nathan S\xc3\xb6derblom'
       a.b) Subject: Economics
 
   31) Year: 1931
       a.b) Subject: Physics
       a.b) Subject: Chemistry
-           a.c) Winner name: Carl Bosch
-           a.c) Winner name: Friedrich Bergius
+           a.c) Winner name: b'Carl Bosch'
+           a.c) Winner name: b'Friedrich Bergius'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Otto Heinrich Warburg
+           a.c) Winner name: b'Otto Heinrich Warburg'
       a.b) Subject: Literature
-           a.c) Winner name: Erik Axel Karlfeldt
+           a.c) Winner name: b'Erik Axel Karlfeldt'
       a.b) Subject: Peace
-           a.c) Winner name: Jane Addams
-           a.c) Winner name: Nicholas Murray Butler
+           a.c) Winner name: b'Jane Addams'
+           a.c) Winner name: b'Nicholas Murray Butler'
       a.b) Subject: Economics
 
   32) Year: 1932
       a.b) Subject: Physics
-           a.c) Winner name: Werner Heisenberg
+           a.c) Winner name: b'Werner Heisenberg'
       a.b) Subject: Chemistry
-           a.c) Winner name: Irving Langmuir
+           a.c) Winner name: b'Irving Langmuir'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Charles Scott Sherrington
-           a.c) Winner name: Edgar Adrian, 1st Baron Adrian
+           a.c) Winner name: b'Charles Scott Sherrington'
+           a.c) Winner name: b'Edgar Adrian, 1st Baron Adrian'
       a.b) Subject: Literature
-           a.c) Winner name: John Galsworthy
+           a.c) Winner name: b'John Galsworthy'
       a.b) Subject: Peace
       a.b) Subject: Economics
 
   33) Year: 1933
       a.b) Subject: Physics
-           a.c) Winner name: Erwin Schrödinger
-           a.c) Winner name: Paul Dirac
+           a.c) Winner name: b'Erwin Schr\xc3\xb6dinger'
+           a.c) Winner name: b'Paul Dirac'
       a.b) Subject: Chemistry
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Thomas Hunt Morgan
+           a.c) Winner name: b'Thomas Hunt Morgan'
       a.b) Subject: Literature
-           a.c) Winner name: Ivan Bunin
+           a.c) Winner name: b'Ivan Bunin'
       a.b) Subject: Peace
-           a.c) Winner name: Norman Angell
+           a.c) Winner name: b'Norman Angell'
       a.b) Subject: Economics
 
   34) Year: 1934
       a.b) Subject: Physics
       a.b) Subject: Chemistry
-           a.c) Winner name: Harold Urey
+           a.c) Winner name: b'Harold Urey'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: George Whipple
-           a.c) Winner name: George Minot
-           a.c) Winner name: William P. Murphy
+           a.c) Winner name: b'George Whipple'
+           a.c) Winner name: b'George Minot'
+           a.c) Winner name: b'William P. Murphy'
       a.b) Subject: Literature
-           a.c) Winner name: Luigi Pirandello
+           a.c) Winner name: b'Luigi Pirandello'
       a.b) Subject: Peace
-           a.c) Winner name: Arthur Henderson
+           a.c) Winner name: b'Arthur Henderson'
       a.b) Subject: Economics
 
   35) Year: 1935
       a.b) Subject: Physics
-           a.c) Winner name: James Chadwick
+           a.c) Winner name: b'James Chadwick'
       a.b) Subject: Chemistry
-           a.c) Winner name: Frédéric Joliot-Curie
-           a.c) Winner name: Irène Joliot-Curie
+           a.c) Winner name: b'Fr\xc3\xa9d\xc3\xa9ric Joliot-Curie'
+           a.c) Winner name: b'Ir\xc3\xa8ne Joliot-Curie'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Hans Spemann
+           a.c) Winner name: b'Hans Spemann'
       a.b) Subject: Literature
       a.b) Subject: Peace
-           a.c) Winner name: Carl von Ossietzky
+           a.c) Winner name: b'Carl von Ossietzky'
       a.b) Subject: Economics
 
   36) Year: 1936
       a.b) Subject: Physics
-           a.c) Winner name: Victor Francis Hess
-           a.c) Winner name: Carl David Anderson
+           a.c) Winner name: b'Victor Francis Hess'
+           a.c) Winner name: b'Carl David Anderson'
       a.b) Subject: Chemistry
-           a.c) Winner name: Peter Debye
+           a.c) Winner name: b'Peter Debye'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Henry Hallett Dale
-           a.c) Winner name: Otto Loewi
+           a.c) Winner name: b'Henry Hallett Dale'
+           a.c) Winner name: b'Otto Loewi'
       a.b) Subject: Literature
-           a.c) Winner name: Eugene O'Neill
+           a.c) Winner name: b"Eugene O'Neill"
       a.b) Subject: Peace
-           a.c) Winner name: Carlos Saavedra Lamas
+           a.c) Winner name: b'Carlos Saavedra Lamas'
       a.b) Subject: Economics
 
   37) Year: 1937
       a.b) Subject: Physics
-           a.c) Winner name: Clinton Davisson
-           a.c) Winner name: George Paget Thomson
+           a.c) Winner name: b'Clinton Davisson'
+           a.c) Winner name: b'George Paget Thomson'
       a.b) Subject: Chemistry
-           a.c) Winner name: Norman Haworth
-           a.c) Winner name: Paul Karrer
+           a.c) Winner name: b'Norman Haworth'
+           a.c) Winner name: b'Paul Karrer'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Albert Szent-Györgyi
+           a.c) Winner name: b'Albert Szent-Gy\xc3\xb6rgyi'
       a.b) Subject: Literature
-           a.c) Winner name: Roger Martin du Gard
+           a.c) Winner name: b'Roger Martin du Gard'
       a.b) Subject: Peace
-           a.c) Winner name: Robert Cecil, 1st Viscount Cecil of Chelwood
+           a.c) Winner name: b'Robert Cecil, 1st Viscount Cecil of Chelwood'
       a.b) Subject: Economics
 
   38) Year: 1938
       a.b) Subject: Physics
-           a.c) Winner name: Enrico Fermi
+           a.c) Winner name: b'Enrico Fermi'
       a.b) Subject: Chemistry
-           a.c) Winner name: Richard Kuhn
+           a.c) Winner name: b'Richard Kuhn'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Corneille Heymans
+           a.c) Winner name: b'Corneille Heymans'
       a.b) Subject: Literature
-           a.c) Winner name: Pearl S. Buck
+           a.c) Winner name: b'Pearl S. Buck'
       a.b) Subject: Peace
       a.b) Subject: Economics
 
   39) Year: 1939
       a.b) Subject: Physics
-           a.c) Winner name: Ernest Lawrence
+           a.c) Winner name: b'Ernest Lawrence'
       a.b) Subject: Chemistry
-           a.c) Winner name: Adolf Butenandt
-           a.c) Winner name: Leopold Ružička
+           a.c) Winner name: b'Adolf Butenandt'
+           a.c) Winner name: b'Leopold Ru\xc5\xbei\xc4\x8dka'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Gerhard Domagk
+           a.c) Winner name: b'Gerhard Domagk'
       a.b) Subject: Literature
-           a.c) Winner name: Frans Eemil Sillanpää
+           a.c) Winner name: b'Frans Eemil Sillanp\xc3\xa4\xc3\xa4'
       a.b) Subject: Peace
       a.b) Subject: Economics
 
@@ -543,1298 +543,1298 @@
 
   43) Year: 1943
       a.b) Subject: Physics
-           a.c) Winner name: Otto Stern
+           a.c) Winner name: b'Otto Stern'
       a.b) Subject: Chemistry
-           a.c) Winner name: George de Hevesy
+           a.c) Winner name: b'George de Hevesy'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Henrik Dam
-           a.c) Winner name: Edward Adelbert Doisy
+           a.c) Winner name: b'Henrik Dam'
+           a.c) Winner name: b'Edward Adelbert Doisy'
       a.b) Subject: Literature
       a.b) Subject: Peace
       a.b) Subject: Economics
 
   44) Year: 1944
       a.b) Subject: Physics
-           a.c) Winner name: Isidor Isaac Rabi
+           a.c) Winner name: b'Isidor Isaac Rabi'
       a.b) Subject: Chemistry
-           a.c) Winner name: Otto Hahn
+           a.c) Winner name: b'Otto Hahn'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Joseph Erlanger
-           a.c) Winner name: Herbert Spencer Gasser
+           a.c) Winner name: b'Joseph Erlanger'
+           a.c) Winner name: b'Herbert Spencer Gasser'
       a.b) Subject: Literature
-           a.c) Winner name: Johannes Vilhelm Jensen
+           a.c) Winner name: b'Johannes Vilhelm Jensen'
       a.b) Subject: Peace
       a.b) Subject: Economics
 
   45) Year: 1945
       a.b) Subject: Physics
-           a.c) Winner name: Wolfgang Pauli
+           a.c) Winner name: b'Wolfgang Pauli'
       a.b) Subject: Chemistry
-           a.c) Winner name: Artturi Ilmari Virtanen
+           a.c) Winner name: b'Artturi Ilmari Virtanen'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Alexander Fleming
-           a.c) Winner name: Ernst Boris Chain
-           a.c) Winner name: Howard Florey
+           a.c) Winner name: b'Alexander Fleming'
+           a.c) Winner name: b'Ernst Boris Chain'
+           a.c) Winner name: b'Howard Florey'
       a.b) Subject: Literature
-           a.c) Winner name: Gabriela Mistral
+           a.c) Winner name: b'Gabriela Mistral'
       a.b) Subject: Peace
-           a.c) Winner name: Cordell Hull
+           a.c) Winner name: b'Cordell Hull'
       a.b) Subject: Economics
 
   46) Year: 1946
       a.b) Subject: Physics
-           a.c) Winner name: Percy Williams Bridgman
+           a.c) Winner name: b'Percy Williams Bridgman'
       a.b) Subject: Chemistry
-           a.c) Winner name: James B. Sumner
-           a.c) Winner name: John Howard Northrop
-           a.c) Winner name: Wendell Meredith Stanley
+           a.c) Winner name: b'James B. Sumner'
+           a.c) Winner name: b'John Howard Northrop'
+           a.c) Winner name: b'Wendell Meredith Stanley'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Hermann Joseph Muller
+           a.c) Winner name: b'Hermann Joseph Muller'
       a.b) Subject: Literature
-           a.c) Winner name: Hermann Hesse
+           a.c) Winner name: b'Hermann Hesse'
       a.b) Subject: Peace
-           a.c) Winner name: Emily Greene Balch
-           a.c) Winner name: John Mott
+           a.c) Winner name: b'Emily Greene Balch'
+           a.c) Winner name: b'John Mott'
       a.b) Subject: Economics
 
   47) Year: 1947
       a.b) Subject: Physics
-           a.c) Winner name: Edward Victor Appleton
+           a.c) Winner name: b'Edward Victor Appleton'
       a.b) Subject: Chemistry
-           a.c) Winner name: Robert Robinson (organic chemist)
+           a.c) Winner name: b'Robert Robinson (organic chemist)'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Carl Ferdinand Cori
-           a.c) Winner name: Gerty Cori
-           a.c) Winner name: Bernardo Houssay
+           a.c) Winner name: b'Carl Ferdinand Cori'
+           a.c) Winner name: b'Gerty Cori'
+           a.c) Winner name: b'Bernardo Houssay'
       a.b) Subject: Literature
-           a.c) Winner name: André Gide
+           a.c) Winner name: b'Andr\xc3\xa9 Gide'
       a.b) Subject: Peace
       a.b) Subject: Economics
 
   48) Year: 1948
       a.b) Subject: Physics
-           a.c) Winner name: Patrick Blackett, Baron Blackett
+           a.c) Winner name: b'Patrick Blackett, Baron Blackett'
       a.b) Subject: Chemistry
-           a.c) Winner name: Arne Tiselius
+           a.c) Winner name: b'Arne Tiselius'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Paul Hermann Müller
+           a.c) Winner name: b'Paul Hermann M\xc3\xbcller'
       a.b) Subject: Literature
-           a.c) Winner name: T. S. Eliot
+           a.c) Winner name: b'T. S. Eliot'
       a.b) Subject: Peace
       a.b) Subject: Economics
 
   49) Year: 1949
       a.b) Subject: Physics
-           a.c) Winner name: Hideki Yukawa
+           a.c) Winner name: b'Hideki Yukawa'
       a.b) Subject: Chemistry
-           a.c) Winner name: William Giauque
+           a.c) Winner name: b'William Giauque'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Walter Rudolf Hess
-           a.c) Winner name: António Egas Moniz
+           a.c) Winner name: b'Walter Rudolf Hess'
+           a.c) Winner name: b'Ant\xc3\xb3nio Egas Moniz'
       a.b) Subject: Literature
-           a.c) Winner name: William Faulkner
+           a.c) Winner name: b'William Faulkner'
       a.b) Subject: Peace
-           a.c) Winner name: John Boyd Orr, 1st Baron Boyd-Orr
+           a.c) Winner name: b'John Boyd Orr, 1st Baron Boyd-Orr'
       a.b) Subject: Economics
 
   50) Year: 1950
       a.b) Subject: Physics
-           a.c) Winner name: C. F. Powell
+           a.c) Winner name: b'C. F. Powell'
       a.b) Subject: Chemistry
-           a.c) Winner name: Otto Diels
-           a.c) Winner name: Kurt Alder
+           a.c) Winner name: b'Otto Diels'
+           a.c) Winner name: b'Kurt Alder'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Philip Showalter Hench
-           a.c) Winner name: Edward Calvin Kendall
-           a.c) Winner name: Tadeus Reichstein
+           a.c) Winner name: b'Philip Showalter Hench'
+           a.c) Winner name: b'Edward Calvin Kendall'
+           a.c) Winner name: b'Tadeus Reichstein'
       a.b) Subject: Literature
-           a.c) Winner name: Bertrand Russell
+           a.c) Winner name: b'Bertrand Russell'
       a.b) Subject: Peace
-           a.c) Winner name: Ralph Bunche
+           a.c) Winner name: b'Ralph Bunche'
       a.b) Subject: Economics
 
   51) Year: 1951
       a.b) Subject: Physics
-           a.c) Winner name: John Cockcroft
-           a.c) Winner name: Ernest Walton
+           a.c) Winner name: b'John Cockcroft'
+           a.c) Winner name: b'Ernest Walton'
       a.b) Subject: Chemistry
-           a.c) Winner name: Edwin McMillan
-           a.c) Winner name: Glenn T. Seaborg
+           a.c) Winner name: b'Edwin McMillan'
+           a.c) Winner name: b'Glenn T. Seaborg'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Max Theiler
+           a.c) Winner name: b'Max Theiler'
       a.b) Subject: Literature
-           a.c) Winner name: Pär Lagerkvist
+           a.c) Winner name: b'P\xc3\xa4r Lagerkvist'
       a.b) Subject: Peace
-           a.c) Winner name: Léon Jouhaux
+           a.c) Winner name: b'L\xc3\xa9on Jouhaux'
       a.b) Subject: Economics
 
   52) Year: 1952
       a.b) Subject: Physics
-           a.c) Winner name: Felix Bloch
-           a.c) Winner name: Edward Mills Purcell
+           a.c) Winner name: b'Felix Bloch'
+           a.c) Winner name: b'Edward Mills Purcell'
       a.b) Subject: Chemistry
-           a.c) Winner name: Archer John Porter Martin
-           a.c) Winner name: Richard Laurence Millington Synge
+           a.c) Winner name: b'Archer John Porter Martin'
+           a.c) Winner name: b'Richard Laurence Millington Synge'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Selman Waksman
+           a.c) Winner name: b'Selman Waksman'
       a.b) Subject: Literature
-           a.c) Winner name: François Mauriac
+           a.c) Winner name: b'Fran\xc3\xa7ois Mauriac'
       a.b) Subject: Peace
-           a.c) Winner name: Albert Schweitzer
+           a.c) Winner name: b'Albert Schweitzer'
       a.b) Subject: Economics
 
   53) Year: 1953
       a.b) Subject: Physics
-           a.c) Winner name: Frits Zernike
+           a.c) Winner name: b'Frits Zernike'
       a.b) Subject: Chemistry
-           a.c) Winner name: Hermann Staudinger
+           a.c) Winner name: b'Hermann Staudinger'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Hans Adolf Krebs
-           a.c) Winner name: Fritz Albert Lipmann
+           a.c) Winner name: b'Hans Adolf Krebs'
+           a.c) Winner name: b'Fritz Albert Lipmann'
       a.b) Subject: Literature
-           a.c) Winner name: Winston Churchill
+           a.c) Winner name: b'Winston Churchill'
       a.b) Subject: Peace
-           a.c) Winner name: George Marshall
+           a.c) Winner name: b'George Marshall'
       a.b) Subject: Economics
 
   54) Year: 1954
       a.b) Subject: Physics
-           a.c) Winner name: Max Born
-           a.c) Winner name: Walther Bothe
+           a.c) Winner name: b'Max Born'
+           a.c) Winner name: b'Walther Bothe'
       a.b) Subject: Chemistry
-           a.c) Winner name: Linus Pauling
+           a.c) Winner name: b'Linus Pauling'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: John Franklin Enders
-           a.c) Winner name: Frederick Chapman Robbins
-           a.c) Winner name: Thomas Huckle Weller
+           a.c) Winner name: b'John Franklin Enders'
+           a.c) Winner name: b'Frederick Chapman Robbins'
+           a.c) Winner name: b'Thomas Huckle Weller'
       a.b) Subject: Literature
-           a.c) Winner name: Ernest Hemingway
+           a.c) Winner name: b'Ernest Hemingway'
       a.b) Subject: Peace
       a.b) Subject: Economics
 
   55) Year: 1955
       a.b) Subject: Physics
-           a.c) Winner name: Willis Lamb
-           a.c) Winner name: Polykarp Kusch
+           a.c) Winner name: b'Willis Lamb'
+           a.c) Winner name: b'Polykarp Kusch'
       a.b) Subject: Chemistry
-           a.c) Winner name: Vincent du Vigneaud
+           a.c) Winner name: b'Vincent du Vigneaud'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Hugo Theorell
+           a.c) Winner name: b'Hugo Theorell'
       a.b) Subject: Literature
-           a.c) Winner name: Halldór Laxness
+           a.c) Winner name: b'Halld\xc3\xb3r Laxness'
       a.b) Subject: Peace
       a.b) Subject: Economics
 
   56) Year: 1956
       a.b) Subject: Physics
-           a.c) Winner name: John Bardeen
-           a.c) Winner name: Walter Houser Brattain
-           a.c) Winner name: William Shockley
+           a.c) Winner name: b'John Bardeen'
+           a.c) Winner name: b'Walter Houser Brattain'
+           a.c) Winner name: b'William Shockley'
       a.b) Subject: Chemistry
-           a.c) Winner name: Cyril Norman Hinshelwood
-           a.c) Winner name: Nikolay Semyonov
+           a.c) Winner name: b'Cyril Norman Hinshelwood'
+           a.c) Winner name: b'Nikolay Semyonov'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: André Frédéric Cournand
-           a.c) Winner name: Werner Forssmann
-           a.c) Winner name: Dickinson W. Richards
+           a.c) Winner name: b'Andr\xc3\xa9 Fr\xc3\xa9d\xc3\xa9ric Cournand'
+           a.c) Winner name: b'Werner Forssmann'
+           a.c) Winner name: b'Dickinson W. Richards'
       a.b) Subject: Literature
-           a.c) Winner name: Juan Ramón Jiménez
+           a.c) Winner name: b'Juan Ram\xc3\xb3n Jim\xc3\xa9nez'
       a.b) Subject: Peace
       a.b) Subject: Economics
 
   57) Year: 1957
       a.b) Subject: Physics
-           a.c) Winner name: Chen Ning Yang
-           a.c) Winner name: Tsung-Dao Lee
+           a.c) Winner name: b'Chen Ning Yang'
+           a.c) Winner name: b'Tsung-Dao Lee'
       a.b) Subject: Chemistry
-           a.c) Winner name: Alexander R. Todd, Baron Todd
+           a.c) Winner name: b'Alexander R. Todd, Baron Todd'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Daniel Bovet
+           a.c) Winner name: b'Daniel Bovet'
       a.b) Subject: Literature
-           a.c) Winner name: Albert Camus
+           a.c) Winner name: b'Albert Camus'
       a.b) Subject: Peace
-           a.c) Winner name: Lester B. Pearson
+           a.c) Winner name: b'Lester B. Pearson'
       a.b) Subject: Economics
 
   58) Year: 1958
       a.b) Subject: Physics
-           a.c) Winner name: Pavel Cherenkov
-           a.c) Winner name: Ilya Frank
-           a.c) Winner name: Igor Tamm
+           a.c) Winner name: b'Pavel Cherenkov'
+           a.c) Winner name: b'Ilya Frank'
+           a.c) Winner name: b'Igor Tamm'
       a.b) Subject: Chemistry
-           a.c) Winner name: Frederick Sanger
+           a.c) Winner name: b'Frederick Sanger'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: George Wells Beadle
-           a.c) Winner name: Edward Lawrie Tatum
-           a.c) Winner name: Joshua Lederberg
+           a.c) Winner name: b'George Wells Beadle'
+           a.c) Winner name: b'Edward Lawrie Tatum'
+           a.c) Winner name: b'Joshua Lederberg'
       a.b) Subject: Literature
-           a.c) Winner name: Boris Pasternak
+           a.c) Winner name: b'Boris Pasternak'
       a.b) Subject: Peace
-           a.c) Winner name: Dominique Pire
+           a.c) Winner name: b'Dominique Pire'
       a.b) Subject: Economics
 
   59) Year: 1959
       a.b) Subject: Physics
-           a.c) Winner name: Emilio G. Segrè
-           a.c) Winner name: Owen Chamberlain
+           a.c) Winner name: b'Emilio G. Segr\xc3\xa8'
+           a.c) Winner name: b'Owen Chamberlain'
       a.b) Subject: Chemistry
-           a.c) Winner name: Jaroslav Heyrovský
+           a.c) Winner name: b'Jaroslav Heyrovsk\xc3\xbd'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Arthur Kornberg
-           a.c) Winner name: Severo Ochoa
+           a.c) Winner name: b'Arthur Kornberg'
+           a.c) Winner name: b'Severo Ochoa'
       a.b) Subject: Literature
-           a.c) Winner name: Salvatore Quasimodo
+           a.c) Winner name: b'Salvatore Quasimodo'
       a.b) Subject: Peace
-           a.c) Winner name: Philip Noel-Baker, Baron Noel-Baker
+           a.c) Winner name: b'Philip Noel-Baker, Baron Noel-Baker'
       a.b) Subject: Economics
 
   60) Year: 1960
       a.b) Subject: Physics
-           a.c) Winner name: Donald A. Glaser
+           a.c) Winner name: b'Donald A. Glaser'
       a.b) Subject: Chemistry
-           a.c) Winner name: Willard Libby
+           a.c) Winner name: b'Willard Libby'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Frank Macfarlane Burnet
-           a.c) Winner name: Peter Medawar
+           a.c) Winner name: b'Frank Macfarlane Burnet'
+           a.c) Winner name: b'Peter Medawar'
       a.b) Subject: Literature
-           a.c) Winner name: Saint-John Perse
+           a.c) Winner name: b'Saint-John Perse'
       a.b) Subject: Peace
-           a.c) Winner name: Albert Lutuli
+           a.c) Winner name: b'Albert Lutuli'
       a.b) Subject: Economics
 
   61) Year: 1961
       a.b) Subject: Physics
-           a.c) Winner name: Robert Hofstadter
-           a.c) Winner name: Rudolf Mössbauer
+           a.c) Winner name: b'Robert Hofstadter'
+           a.c) Winner name: b'Rudolf M\xc3\xb6ssbauer'
       a.b) Subject: Chemistry
-           a.c) Winner name: Melvin Calvin
+           a.c) Winner name: b'Melvin Calvin'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Georg von Békésy
+           a.c) Winner name: b'Georg von B\xc3\xa9k\xc3\xa9sy'
       a.b) Subject: Literature
-           a.c) Winner name: Ivo Andrić
+           a.c) Winner name: b'Ivo Andri\xc4\x87'
       a.b) Subject: Peace
-           a.c) Winner name: Dag Hammarskjöld
+           a.c) Winner name: b'Dag Hammarskj\xc3\xb6ld'
       a.b) Subject: Economics
 
   62) Year: 1962
       a.b) Subject: Physics
-           a.c) Winner name: Lev Landau
+           a.c) Winner name: b'Lev Landau'
       a.b) Subject: Chemistry
-           a.c) Winner name: Max Perutz
-           a.c) Winner name: John Kendrew
+           a.c) Winner name: b'Max Perutz'
+           a.c) Winner name: b'John Kendrew'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Francis Crick
-           a.c) Winner name: James D. Watson
-           a.c) Winner name: Maurice Wilkins
+           a.c) Winner name: b'Francis Crick'
+           a.c) Winner name: b'James D. Watson'
+           a.c) Winner name: b'Maurice Wilkins'
       a.b) Subject: Literature
-           a.c) Winner name: John Steinbeck
+           a.c) Winner name: b'John Steinbeck'
       a.b) Subject: Peace
-           a.c) Winner name: Linus Pauling
+           a.c) Winner name: b'Linus Pauling'
       a.b) Subject: Economics
 
   63) Year: 1963
       a.b) Subject: Physics
-           a.c) Winner name: Eugene Wigner
-           a.c) Winner name: Maria Goeppert-Mayer
-           a.c) Winner name: J. Hans D. Jensen
+           a.c) Winner name: b'Eugene Wigner'
+           a.c) Winner name: b'Maria Goeppert-Mayer'
+           a.c) Winner name: b'J. Hans D. Jensen'
       a.b) Subject: Chemistry
-           a.c) Winner name: Karl Ziegler
-           a.c) Winner name: Giulio Natta
+           a.c) Winner name: b'Karl Ziegler'
+           a.c) Winner name: b'Giulio Natta'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: John Eccles (neurophysiologist)
-           a.c) Winner name: Alan Lloyd Hodgkin
-           a.c) Winner name: Andrew Huxley
+           a.c) Winner name: b'John Eccles (neurophysiologist)'
+           a.c) Winner name: b'Alan Lloyd Hodgkin'
+           a.c) Winner name: b'Andrew Huxley'
       a.b) Subject: Literature
-           a.c) Winner name: Giorgos Seferis
+           a.c) Winner name: b'Giorgos Seferis'
       a.b) Subject: Peace
       a.b) Subject: Economics
 
   64) Year: 1964
       a.b) Subject: Physics
-           a.c) Winner name: Charles Hard Townes
-           a.c) Winner name: Nikolay Basov
-           a.c) Winner name: Alexander Prokhorov
+           a.c) Winner name: b'Charles Hard Townes'
+           a.c) Winner name: b'Nikolay Basov'
+           a.c) Winner name: b'Alexander Prokhorov'
       a.b) Subject: Chemistry
-           a.c) Winner name: Dorothy Hodgkin
+           a.c) Winner name: b'Dorothy Hodgkin'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Konrad Emil Bloch
-           a.c) Winner name: Feodor Felix Konrad Lynen
+           a.c) Winner name: b'Konrad Emil Bloch'
+           a.c) Winner name: b'Feodor Felix Konrad Lynen'
       a.b) Subject: Literature
-           a.c) Winner name: Jean-Paul Sartre
+           a.c) Winner name: b'Jean-Paul Sartre'
       a.b) Subject: Peace
-           a.c) Winner name: Martin Luther King, Jr.
+           a.c) Winner name: b'Martin Luther King, Jr.'
       a.b) Subject: Economics
 
   65) Year: 1965
       a.b) Subject: Physics
-           a.c) Winner name: Sin-Itiro Tomonaga
-           a.c) Winner name: Julian Schwinger
-           a.c) Winner name: Richard Feynman
+           a.c) Winner name: b'Sin-Itiro Tomonaga'
+           a.c) Winner name: b'Julian Schwinger'
+           a.c) Winner name: b'Richard Feynman'
       a.b) Subject: Chemistry
-           a.c) Winner name: Robert Burns Woodward
+           a.c) Winner name: b'Robert Burns Woodward'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: François Jacob
-           a.c) Winner name: André Michel Lwoff
-           a.c) Winner name: Jacques Monod
+           a.c) Winner name: b'Fran\xc3\xa7ois Jacob'
+           a.c) Winner name: b'Andr\xc3\xa9 Michel Lwoff'
+           a.c) Winner name: b'Jacques Monod'
       a.b) Subject: Literature
-           a.c) Winner name: Mikhail Sholokhov
+           a.c) Winner name: b'Mikhail Sholokhov'
       a.b) Subject: Peace
       a.b) Subject: Economics
 
   66) Year: 1966
       a.b) Subject: Physics
-           a.c) Winner name: Alfred Kastler
+           a.c) Winner name: b'Alfred Kastler'
       a.b) Subject: Chemistry
-           a.c) Winner name: Robert S. Mulliken
+           a.c) Winner name: b'Robert S. Mulliken'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Francis Peyton Rous
-           a.c) Winner name: Charles Brenton Huggins
+           a.c) Winner name: b'Francis Peyton Rous'
+           a.c) Winner name: b'Charles Brenton Huggins'
       a.b) Subject: Literature
-           a.c) Winner name: Shmuel Yosef Agnon
-           a.c) Winner name: Nelly Sachs
+           a.c) Winner name: b'Shmuel Yosef Agnon'
+           a.c) Winner name: b'Nelly Sachs'
       a.b) Subject: Peace
       a.b) Subject: Economics
 
   67) Year: 1967
       a.b) Subject: Physics
-           a.c) Winner name: Hans Bethe
+           a.c) Winner name: b'Hans Bethe'
       a.b) Subject: Chemistry
-           a.c) Winner name: Manfred Eigen
-           a.c) Winner name: Ronald George Wreyford Norrish
-           a.c) Winner name: George Porter
+           a.c) Winner name: b'Manfred Eigen'
+           a.c) Winner name: b'Ronald George Wreyford Norrish'
+           a.c) Winner name: b'George Porter'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Ragnar Granit
-           a.c) Winner name: Haldan Keffer Hartline
-           a.c) Winner name: George Wald
+           a.c) Winner name: b'Ragnar Granit'
+           a.c) Winner name: b'Haldan Keffer Hartline'
+           a.c) Winner name: b'George Wald'
       a.b) Subject: Literature
-           a.c) Winner name: Miguel Ángel Asturias
+           a.c) Winner name: b'Miguel \xc3\x81ngel Asturias'
       a.b) Subject: Peace
       a.b) Subject: Economics
 
   68) Year: 1968
       a.b) Subject: Physics
-           a.c) Winner name: Luis Walter Alvarez
+           a.c) Winner name: b'Luis Walter Alvarez'
       a.b) Subject: Chemistry
-           a.c) Winner name: Lars Onsager
+           a.c) Winner name: b'Lars Onsager'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Robert W. Holley
-           a.c) Winner name: Har Gobind Khorana
-           a.c) Winner name: Marshall Warren Nirenberg
+           a.c) Winner name: b'Robert W. Holley'
+           a.c) Winner name: b'Har Gobind Khorana'
+           a.c) Winner name: b'Marshall Warren Nirenberg'
       a.b) Subject: Literature
-           a.c) Winner name: Yasunari Kawabata
+           a.c) Winner name: b'Yasunari Kawabata'
       a.b) Subject: Peace
-           a.c) Winner name: René Cassin
+           a.c) Winner name: b'Ren\xc3\xa9 Cassin'
       a.b) Subject: Economics
 
   69) Year: 1969
       a.b) Subject: Physics
-           a.c) Winner name: Murray Gell-Mann
+           a.c) Winner name: b'Murray Gell-Mann'
       a.b) Subject: Chemistry
-           a.c) Winner name: Derek Barton
-           a.c) Winner name: Odd Hassel
+           a.c) Winner name: b'Derek Barton'
+           a.c) Winner name: b'Odd Hassel'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Max Delbrück
-           a.c) Winner name: Alfred Hershey
-           a.c) Winner name: Salvador Luria
+           a.c) Winner name: b'Max Delbr\xc3\xbcck'
+           a.c) Winner name: b'Alfred Hershey'
+           a.c) Winner name: b'Salvador Luria'
       a.b) Subject: Literature
-           a.c) Winner name: Samuel Beckett
+           a.c) Winner name: b'Samuel Beckett'
       a.b) Subject: Peace
       a.b) Subject: Economics
-           a.c) Winner name: Ragnar Frisch
-           a.c) Winner name: Jan Tinbergen
+           a.c) Winner name: b'Ragnar Frisch'
+           a.c) Winner name: b'Jan Tinbergen'
 
   70) Year: 1970
       a.b) Subject: Physics
-           a.c) Winner name: Hannes Alfvén
-           a.c) Winner name: Louis Néel
+           a.c) Winner name: b'Hannes Alfv\xc3\xa9n'
+           a.c) Winner name: b'Louis N\xc3\xa9el'
       a.b) Subject: Chemistry
-           a.c) Winner name: Luis Federico Leloir
+           a.c) Winner name: b'Luis Federico Leloir'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Julius Axelrod
-           a.c) Winner name: Ulf von Euler
-           a.c) Winner name: Bernard Katz
+           a.c) Winner name: b'Julius Axelrod'
+           a.c) Winner name: b'Ulf von Euler'
+           a.c) Winner name: b'Bernard Katz'
       a.b) Subject: Literature
-           a.c) Winner name: Aleksandr Solzhenitsyn
+           a.c) Winner name: b'Aleksandr Solzhenitsyn'
       a.b) Subject: Peace
-           a.c) Winner name: Norman Borlaug
+           a.c) Winner name: b'Norman Borlaug'
       a.b) Subject: Economics
-           a.c) Winner name: Paul Samuelson
+           a.c) Winner name: b'Paul Samuelson'
 
   71) Year: 1971
       a.b) Subject: Physics
-           a.c) Winner name: Dennis Gabor
+           a.c) Winner name: b'Dennis Gabor'
       a.b) Subject: Chemistry
-           a.c) Winner name: Gerhard Herzberg
+           a.c) Winner name: b'Gerhard Herzberg'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Earl Wilbur Sutherland, Jr.
+           a.c) Winner name: b'Earl Wilbur Sutherland, Jr.'
       a.b) Subject: Literature
-           a.c) Winner name: Pablo Neruda
+           a.c) Winner name: b'Pablo Neruda'
       a.b) Subject: Peace
-           a.c) Winner name: Willy Brandt
+           a.c) Winner name: b'Willy Brandt'
       a.b) Subject: Economics
-           a.c) Winner name: Simon Kuznets
+           a.c) Winner name: b'Simon Kuznets'
 
   72) Year: 1972
       a.b) Subject: Physics
-           a.c) Winner name: John Bardeen
-           a.c) Winner name: Leon Cooper
-           a.c) Winner name: John Robert Schrieffer
+           a.c) Winner name: b'John Bardeen'
+           a.c) Winner name: b'Leon Cooper'
+           a.c) Winner name: b'John Robert Schrieffer'
       a.b) Subject: Chemistry
-           a.c) Winner name: Christian B. Anfinsen
-           a.c) Winner name: Stanford Moore
-           a.c) Winner name: William Howard Stein
+           a.c) Winner name: b'Christian B. Anfinsen'
+           a.c) Winner name: b'Stanford Moore'
+           a.c) Winner name: b'William Howard Stein'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Gerald Edelman
-           a.c) Winner name: Rodney Robert Porter
+           a.c) Winner name: b'Gerald Edelman'
+           a.c) Winner name: b'Rodney Robert Porter'
       a.b) Subject: Literature
-           a.c) Winner name: Heinrich Böll
+           a.c) Winner name: b'Heinrich B\xc3\xb6ll'
       a.b) Subject: Peace
       a.b) Subject: Economics
-           a.c) Winner name: John Hicks
-           a.c) Winner name: Kenneth Arrow
+           a.c) Winner name: b'John Hicks'
+           a.c) Winner name: b'Kenneth Arrow'
 
   73) Year: 1973
       a.b) Subject: Physics
-           a.c) Winner name: Leo Esaki
-           a.c) Winner name: Ivar Giaever
-           a.c) Winner name: Brian David Josephson
+           a.c) Winner name: b'Leo Esaki'
+           a.c) Winner name: b'Ivar Giaever'
+           a.c) Winner name: b'Brian David Josephson'
       a.b) Subject: Chemistry
-           a.c) Winner name: Ernst Otto Fischer
-           a.c) Winner name: Geoffrey Wilkinson
+           a.c) Winner name: b'Ernst Otto Fischer'
+           a.c) Winner name: b'Geoffrey Wilkinson'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Karl von Frisch
-           a.c) Winner name: Konrad Lorenz
-           a.c) Winner name: Nikolaas Tinbergen
+           a.c) Winner name: b'Karl von Frisch'
+           a.c) Winner name: b'Konrad Lorenz'
+           a.c) Winner name: b'Nikolaas Tinbergen'
       a.b) Subject: Literature
-           a.c) Winner name: Patrick White
+           a.c) Winner name: b'Patrick White'
       a.b) Subject: Peace
-           a.c) Winner name: Henry Kissinger
-           a.c) Winner name: Le Duc Tho
+           a.c) Winner name: b'Henry Kissinger'
+           a.c) Winner name: b'Le Duc Tho'
       a.b) Subject: Economics
-           a.c) Winner name: Wassily Leontief
+           a.c) Winner name: b'Wassily Leontief'
 
   74) Year: 1974
       a.b) Subject: Physics
-           a.c) Winner name: Martin Ryle
-           a.c) Winner name: Antony Hewish
+           a.c) Winner name: b'Martin Ryle'
+           a.c) Winner name: b'Antony Hewish'
       a.b) Subject: Chemistry
-           a.c) Winner name: Paul Flory
+           a.c) Winner name: b'Paul Flory'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Albert Claude
-           a.c) Winner name: Christian de Duve
-           a.c) Winner name: George Emil Palade
+           a.c) Winner name: b'Albert Claude'
+           a.c) Winner name: b'Christian de Duve'
+           a.c) Winner name: b'George Emil Palade'
       a.b) Subject: Literature
-           a.c) Winner name: Eyvind Johnson
-           a.c) Winner name: Harry Martinson
+           a.c) Winner name: b'Eyvind Johnson'
+           a.c) Winner name: b'Harry Martinson'
       a.b) Subject: Peace
-           a.c) Winner name: Seán MacBride
-           a.c) Winner name: Eisaku Satō
+           a.c) Winner name: b'Se\xc3\xa1n MacBride'
+           a.c) Winner name: b'Eisaku Sat\xc5\x8d'
       a.b) Subject: Economics
-           a.c) Winner name: Gunnar Myrdal
-           a.c) Winner name: Friedrich Hayek
+           a.c) Winner name: b'Gunnar Myrdal'
+           a.c) Winner name: b'Friedrich Hayek'
 
   75) Year: 1975
       a.b) Subject: Physics
-           a.c) Winner name: Aage Bohr
-           a.c) Winner name: Ben Roy Mottelson
-           a.c) Winner name: James Rainwater
+           a.c) Winner name: b'Aage Bohr'
+           a.c) Winner name: b'Ben Roy Mottelson'
+           a.c) Winner name: b'James Rainwater'
       a.b) Subject: Chemistry
-           a.c) Winner name: John Cornforth
-           a.c) Winner name: Vladimir Prelog
+           a.c) Winner name: b'John Cornforth'
+           a.c) Winner name: b'Vladimir Prelog'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: David Baltimore
-           a.c) Winner name: Renato Dulbecco
-           a.c) Winner name: Howard Martin Temin
+           a.c) Winner name: b'David Baltimore'
+           a.c) Winner name: b'Renato Dulbecco'
+           a.c) Winner name: b'Howard Martin Temin'
       a.b) Subject: Literature
-           a.c) Winner name: Eugenio Montale
+           a.c) Winner name: b'Eugenio Montale'
       a.b) Subject: Peace
-           a.c) Winner name: Andrei Sakharov
+           a.c) Winner name: b'Andrei Sakharov'
       a.b) Subject: Economics
-           a.c) Winner name: Leonid Kantorovich
-           a.c) Winner name: Tjalling Koopmans
+           a.c) Winner name: b'Leonid Kantorovich'
+           a.c) Winner name: b'Tjalling Koopmans'
 
   76) Year: 1976
       a.b) Subject: Physics
-           a.c) Winner name: Burton Richter
-           a.c) Winner name: Samuel C. C. Ting
+           a.c) Winner name: b'Burton Richter'
+           a.c) Winner name: b'Samuel C. C. Ting'
       a.b) Subject: Chemistry
-           a.c) Winner name: William Lipscomb
+           a.c) Winner name: b'William Lipscomb'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Baruch Samuel Blumberg
-           a.c) Winner name: Daniel Carleton Gajdusek
+           a.c) Winner name: b'Baruch Samuel Blumberg'
+           a.c) Winner name: b'Daniel Carleton Gajdusek'
       a.b) Subject: Literature
-           a.c) Winner name: Saul Bellow
+           a.c) Winner name: b'Saul Bellow'
       a.b) Subject: Peace
-           a.c) Winner name: Betty Williams (Nobel laureate)
-           a.c) Winner name: Mairead Maguire
+           a.c) Winner name: b'Betty Williams (Nobel laureate)'
+           a.c) Winner name: b'Mairead Maguire'
       a.b) Subject: Economics
-           a.c) Winner name: Milton Friedman
+           a.c) Winner name: b'Milton Friedman'
 
   77) Year: 1977
       a.b) Subject: Physics
-           a.c) Winner name: Philip Warren Anderson
-           a.c) Winner name: Nevill Francis Mott
-           a.c) Winner name: John Hasbrouck Van Vleck
+           a.c) Winner name: b'Philip Warren Anderson'
+           a.c) Winner name: b'Nevill Francis Mott'
+           a.c) Winner name: b'John Hasbrouck Van Vleck'
       a.b) Subject: Chemistry
-           a.c) Winner name: Ilya Prigogine
+           a.c) Winner name: b'Ilya Prigogine'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Roger Guillemin
-           a.c) Winner name: Andrew Schally
-           a.c) Winner name: Rosalyn Sussman Yalow
+           a.c) Winner name: b'Roger Guillemin'
+           a.c) Winner name: b'Andrew Schally'
+           a.c) Winner name: b'Rosalyn Sussman Yalow'
       a.b) Subject: Literature
-           a.c) Winner name: Vicente Aleixandre
+           a.c) Winner name: b'Vicente Aleixandre'
       a.b) Subject: Peace
       a.b) Subject: Economics
-           a.c) Winner name: Bertil Ohlin
-           a.c) Winner name: James Meade
+           a.c) Winner name: b'Bertil Ohlin'
+           a.c) Winner name: b'James Meade'
 
   78) Year: 1978
       a.b) Subject: Physics
-           a.c) Winner name: Pyotr Kapitsa
-           a.c) Winner name: Arno Allan Penzias
-           a.c) Winner name: Robert Woodrow Wilson
+           a.c) Winner name: b'Pyotr Kapitsa'
+           a.c) Winner name: b'Arno Allan Penzias'
+           a.c) Winner name: b'Robert Woodrow Wilson'
       a.b) Subject: Chemistry
-           a.c) Winner name: Peter D. Mitchell
+           a.c) Winner name: b'Peter D. Mitchell'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Werner Arber
-           a.c) Winner name: Daniel Nathans
-           a.c) Winner name: Hamilton O. Smith
+           a.c) Winner name: b'Werner Arber'
+           a.c) Winner name: b'Daniel Nathans'
+           a.c) Winner name: b'Hamilton O. Smith'
       a.b) Subject: Literature
-           a.c) Winner name: Isaac Bashevis Singer
+           a.c) Winner name: b'Isaac Bashevis Singer'
       a.b) Subject: Peace
-           a.c) Winner name: Anwar Sadat
-           a.c) Winner name: Menachem Begin
+           a.c) Winner name: b'Anwar Sadat'
+           a.c) Winner name: b'Menachem Begin'
       a.b) Subject: Economics
-           a.c) Winner name: Herbert A. Simon
+           a.c) Winner name: b'Herbert A. Simon'
 
   79) Year: 1979
       a.b) Subject: Physics
-           a.c) Winner name: Sheldon Lee Glashow
-           a.c) Winner name: Abdus Salam
-           a.c) Winner name: Steven Weinberg
+           a.c) Winner name: b'Sheldon Lee Glashow'
+           a.c) Winner name: b'Abdus Salam'
+           a.c) Winner name: b'Steven Weinberg'
       a.b) Subject: Chemistry
-           a.c) Winner name: Herbert C. Brown
-           a.c) Winner name: Georg Wittig
+           a.c) Winner name: b'Herbert C. Brown'
+           a.c) Winner name: b'Georg Wittig'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Allan McLeod Cormack
-           a.c) Winner name: Godfrey Hounsfield
+           a.c) Winner name: b'Allan McLeod Cormack'
+           a.c) Winner name: b'Godfrey Hounsfield'
       a.b) Subject: Literature
-           a.c) Winner name: Odysseas Elytis
+           a.c) Winner name: b'Odysseas Elytis'
       a.b) Subject: Peace
-           a.c) Winner name: Mother Teresa
+           a.c) Winner name: b'Mother Teresa'
       a.b) Subject: Economics
-           a.c) Winner name: Theodore Schultz
-           a.c) Winner name: Arthur Lewis (economist)
+           a.c) Winner name: b'Theodore Schultz'
+           a.c) Winner name: b'Arthur Lewis (economist)'
 
   80) Year: 1980
       a.b) Subject: Physics
-           a.c) Winner name: James Cronin
-           a.c) Winner name: Val Logsdon Fitch
+           a.c) Winner name: b'James Cronin'
+           a.c) Winner name: b'Val Logsdon Fitch'
       a.b) Subject: Chemistry
-           a.c) Winner name: Paul Berg
-           a.c) Winner name: Walter Gilbert
-           a.c) Winner name: Frederick Sanger
+           a.c) Winner name: b'Paul Berg'
+           a.c) Winner name: b'Walter Gilbert'
+           a.c) Winner name: b'Frederick Sanger'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Baruj Benacerraf
-           a.c) Winner name: Jean Dausset
-           a.c) Winner name: George Davis Snell
+           a.c) Winner name: b'Baruj Benacerraf'
+           a.c) Winner name: b'Jean Dausset'
+           a.c) Winner name: b'George Davis Snell'
       a.b) Subject: Literature
-           a.c) Winner name: Czesław Miłosz
+           a.c) Winner name: b'Czes\xc5\x82aw Mi\xc5\x82osz'
       a.b) Subject: Peace
-           a.c) Winner name: Adolfo Pérez Esquivel
+           a.c) Winner name: b'Adolfo P\xc3\xa9rez Esquivel'
       a.b) Subject: Economics
-           a.c) Winner name: Lawrence Klein
+           a.c) Winner name: b'Lawrence Klein'
 
   81) Year: 1981
       a.b) Subject: Physics
-           a.c) Winner name: Nicolaas Bloembergen
-           a.c) Winner name: Arthur Leonard Schawlow
-           a.c) Winner name: Kai Siegbahn
+           a.c) Winner name: b'Nicolaas Bloembergen'
+           a.c) Winner name: b'Arthur Leonard Schawlow'
+           a.c) Winner name: b'Kai Siegbahn'
       a.b) Subject: Chemistry
-           a.c) Winner name: Kenichi Fukui
-           a.c) Winner name: Roald Hoffmann
+           a.c) Winner name: b'Kenichi Fukui'
+           a.c) Winner name: b'Roald Hoffmann'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Roger Wolcott Sperry
-           a.c) Winner name: David H. Hubel
-           a.c) Winner name: Torsten Wiesel
+           a.c) Winner name: b'Roger Wolcott Sperry'
+           a.c) Winner name: b'David H. Hubel'
+           a.c) Winner name: b'Torsten Wiesel'
       a.b) Subject: Literature
-           a.c) Winner name: Elias Canetti
+           a.c) Winner name: b'Elias Canetti'
       a.b) Subject: Peace
       a.b) Subject: Economics
-           a.c) Winner name: James Tobin
+           a.c) Winner name: b'James Tobin'
 
   82) Year: 1982
       a.b) Subject: Physics
-           a.c) Winner name: Kenneth G. Wilson
+           a.c) Winner name: b'Kenneth G. Wilson'
       a.b) Subject: Chemistry
-           a.c) Winner name: Aaron Klug
+           a.c) Winner name: b'Aaron Klug'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Sune Bergström
-           a.c) Winner name: Bengt I. Samuelsson
-           a.c) Winner name: John Vane
+           a.c) Winner name: b'Sune Bergstr\xc3\xb6m'
+           a.c) Winner name: b'Bengt I. Samuelsson'
+           a.c) Winner name: b'John Vane'
       a.b) Subject: Literature
-           a.c) Winner name: Gabriel García Márquez
+           a.c) Winner name: b'Gabriel Garc\xc3\xada M\xc3\xa1rquez'
       a.b) Subject: Peace
-           a.c) Winner name: Alva Myrdal
-           a.c) Winner name: Alfonso García Robles
+           a.c) Winner name: b'Alva Myrdal'
+           a.c) Winner name: b'Alfonso Garc\xc3\xada Robles'
       a.b) Subject: Economics
-           a.c) Winner name: George Stigler
+           a.c) Winner name: b'George Stigler'
 
   83) Year: 1983
       a.b) Subject: Physics
-           a.c) Winner name: Subrahmanyan Chandrasekhar
-           a.c) Winner name: William Alfred Fowler
+           a.c) Winner name: b'Subrahmanyan Chandrasekhar'
+           a.c) Winner name: b'William Alfred Fowler'
       a.b) Subject: Chemistry
-           a.c) Winner name: Henry Taube
+           a.c) Winner name: b'Henry Taube'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Barbara McClintock
+           a.c) Winner name: b'Barbara McClintock'
       a.b) Subject: Literature
-           a.c) Winner name: William Golding
+           a.c) Winner name: b'William Golding'
       a.b) Subject: Peace
-           a.c) Winner name: Lech Wałęsa
+           a.c) Winner name: b'Lech Wa\xc5\x82\xc4\x99sa'
       a.b) Subject: Economics
-           a.c) Winner name: Gérard Debreu
+           a.c) Winner name: b'G\xc3\xa9rard Debreu'
 
   84) Year: 1984
       a.b) Subject: Physics
-           a.c) Winner name: Carlo Rubbia
-           a.c) Winner name: Simon van der Meer
+           a.c) Winner name: b'Carlo Rubbia'
+           a.c) Winner name: b'Simon van der Meer'
       a.b) Subject: Chemistry
-           a.c) Winner name: Robert Bruce Merrifield
+           a.c) Winner name: b'Robert Bruce Merrifield'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Niels Kaj Jerne
-           a.c) Winner name: Georges J. F. Köhler
-           a.c) Winner name: César Milstein
+           a.c) Winner name: b'Niels Kaj Jerne'
+           a.c) Winner name: b'Georges J. F. K\xc3\xb6hler'
+           a.c) Winner name: b'C\xc3\xa9sar Milstein'
       a.b) Subject: Literature
-           a.c) Winner name: Jaroslav Seifert
+           a.c) Winner name: b'Jaroslav Seifert'
       a.b) Subject: Peace
-           a.c) Winner name: Desmond Tutu
+           a.c) Winner name: b'Desmond Tutu'
       a.b) Subject: Economics
-           a.c) Winner name: Richard Stone
+           a.c) Winner name: b'Richard Stone'
 
   85) Year: 1985
       a.b) Subject: Physics
-           a.c) Winner name: Klaus von Klitzing
+           a.c) Winner name: b'Klaus von Klitzing'
       a.b) Subject: Chemistry
-           a.c) Winner name: Herbert A. Hauptman
-           a.c) Winner name: Jerome Karle
+           a.c) Winner name: b'Herbert A. Hauptman'
+           a.c) Winner name: b'Jerome Karle'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Michael Stuart Brown
-           a.c) Winner name: Joseph L. Goldstein
+           a.c) Winner name: b'Michael Stuart Brown'
+           a.c) Winner name: b'Joseph L. Goldstein'
       a.b) Subject: Literature
-           a.c) Winner name: Claude Simon
+           a.c) Winner name: b'Claude Simon'
       a.b) Subject: Peace
       a.b) Subject: Economics
-           a.c) Winner name: Franco Modigliani
+           a.c) Winner name: b'Franco Modigliani'
 
   86) Year: 1986
       a.b) Subject: Physics
-           a.c) Winner name: Ernst Ruska
-           a.c) Winner name: Gerd Binnig
-           a.c) Winner name: Heinrich Rohrer
+           a.c) Winner name: b'Ernst Ruska'
+           a.c) Winner name: b'Gerd Binnig'
+           a.c) Winner name: b'Heinrich Rohrer'
       a.b) Subject: Chemistry
-           a.c) Winner name: Dudley R. Herschbach
-           a.c) Winner name: Yuan T. Lee
-           a.c) Winner name: John Polanyi
+           a.c) Winner name: b'Dudley R. Herschbach'
+           a.c) Winner name: b'Yuan T. Lee'
+           a.c) Winner name: b'John Polanyi'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Stanley Cohen (biochemist)
-           a.c) Winner name: Rita Levi-Montalcini
+           a.c) Winner name: b'Stanley Cohen (biochemist)'
+           a.c) Winner name: b'Rita Levi-Montalcini'
       a.b) Subject: Literature
-           a.c) Winner name: Wole Soyinka
+           a.c) Winner name: b'Wole Soyinka'
       a.b) Subject: Peace
-           a.c) Winner name: Elie Wiesel
+           a.c) Winner name: b'Elie Wiesel'
       a.b) Subject: Economics
-           a.c) Winner name: James M. Buchanan
+           a.c) Winner name: b'James M. Buchanan'
 
   87) Year: 1987
       a.b) Subject: Physics
-           a.c) Winner name: Johannes Georg Bednorz
-           a.c) Winner name: Karl Alexander Müller
+           a.c) Winner name: b'Johannes Georg Bednorz'
+           a.c) Winner name: b'Karl Alexander M\xc3\xbcller'
       a.b) Subject: Chemistry
-           a.c) Winner name: Donald J. Cram
-           a.c) Winner name: Jean-Marie Lehn
-           a.c) Winner name: Charles J. Pedersen
+           a.c) Winner name: b'Donald J. Cram'
+           a.c) Winner name: b'Jean-Marie Lehn'
+           a.c) Winner name: b'Charles J. Pedersen'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Susumu Tonegawa
+           a.c) Winner name: b'Susumu Tonegawa'
       a.b) Subject: Literature
-           a.c) Winner name: Joseph Brodsky
+           a.c) Winner name: b'Joseph Brodsky'
       a.b) Subject: Peace
-           a.c) Winner name: Óscar Arias
+           a.c) Winner name: b'\xc3\x93scar Arias'
       a.b) Subject: Economics
-           a.c) Winner name: Robert Solow
+           a.c) Winner name: b'Robert Solow'
 
   88) Year: 1988
       a.b) Subject: Physics
-           a.c) Winner name: Leon M. Lederman
-           a.c) Winner name: Melvin Schwartz
-           a.c) Winner name: Jack Steinberger
+           a.c) Winner name: b'Leon M. Lederman'
+           a.c) Winner name: b'Melvin Schwartz'
+           a.c) Winner name: b'Jack Steinberger'
       a.b) Subject: Chemistry
-           a.c) Winner name: Johann Deisenhofer
-           a.c) Winner name: Robert Huber
-           a.c) Winner name: Hartmut Michel
+           a.c) Winner name: b'Johann Deisenhofer'
+           a.c) Winner name: b'Robert Huber'
+           a.c) Winner name: b'Hartmut Michel'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: James W. Black
-           a.c) Winner name: Gertrude B. Elion
-           a.c) Winner name: George H. Hitchings
+           a.c) Winner name: b'James W. Black'
+           a.c) Winner name: b'Gertrude B. Elion'
+           a.c) Winner name: b'George H. Hitchings'
       a.b) Subject: Literature
-           a.c) Winner name: Naguib Mahfouz
+           a.c) Winner name: b'Naguib Mahfouz'
       a.b) Subject: Peace
       a.b) Subject: Economics
-           a.c) Winner name: Maurice Allais
+           a.c) Winner name: b'Maurice Allais'
 
   89) Year: 1989
       a.b) Subject: Physics
-           a.c) Winner name: Norman Foster Ramsey, Jr.
-           a.c) Winner name: Hans Georg Dehmelt
-           a.c) Winner name: Wolfgang Paul
+           a.c) Winner name: b'Norman Foster Ramsey, Jr.'
+           a.c) Winner name: b'Hans Georg Dehmelt'
+           a.c) Winner name: b'Wolfgang Paul'
       a.b) Subject: Chemistry
-           a.c) Winner name: Sidney Altman
-           a.c) Winner name: Thomas Cech
+           a.c) Winner name: b'Sidney Altman'
+           a.c) Winner name: b'Thomas Cech'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: J. Michael Bishop
-           a.c) Winner name: Harold E. Varmus
+           a.c) Winner name: b'J. Michael Bishop'
+           a.c) Winner name: b'Harold E. Varmus'
       a.b) Subject: Literature
-           a.c) Winner name: Camilo José Cela
+           a.c) Winner name: b'Camilo Jos\xc3\xa9 Cela'
       a.b) Subject: Peace
-           a.c) Winner name: 14th Dalai Lama
+           a.c) Winner name: b'14th Dalai Lama'
       a.b) Subject: Economics
-           a.c) Winner name: Trygve Haavelmo
+           a.c) Winner name: b'Trygve Haavelmo'
 
   90) Year: 1990
       a.b) Subject: Physics
-           a.c) Winner name: Jerome Isaac Friedman
-           a.c) Winner name: Henry Way Kendall
-           a.c) Winner name: Richard E. Taylor
+           a.c) Winner name: b'Jerome Isaac Friedman'
+           a.c) Winner name: b'Henry Way Kendall'
+           a.c) Winner name: b'Richard E. Taylor'
       a.b) Subject: Chemistry
-           a.c) Winner name: Elias James Corey
+           a.c) Winner name: b'Elias James Corey'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Joseph Murray
-           a.c) Winner name: E. Donnall Thomas
+           a.c) Winner name: b'Joseph Murray'
+           a.c) Winner name: b'E. Donnall Thomas'
       a.b) Subject: Literature
-           a.c) Winner name: Octavio Paz
+           a.c) Winner name: b'Octavio Paz'
       a.b) Subject: Peace
-           a.c) Winner name: Mikhail Gorbachev
+           a.c) Winner name: b'Mikhail Gorbachev'
       a.b) Subject: Economics
-           a.c) Winner name: Harry Markowitz
-           a.c) Winner name: Merton Miller
-           a.c) Winner name: William F. Sharpe
+           a.c) Winner name: b'Harry Markowitz'
+           a.c) Winner name: b'Merton Miller'
+           a.c) Winner name: b'William F. Sharpe'
 
   91) Year: 1991
       a.b) Subject: Physics
-           a.c) Winner name: Pierre-Gilles de Gennes
+           a.c) Winner name: b'Pierre-Gilles de Gennes'
       a.b) Subject: Chemistry
-           a.c) Winner name: Richard R. Ernst
+           a.c) Winner name: b'Richard R. Ernst'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Erwin Neher
-           a.c) Winner name: Bert Sakmann
+           a.c) Winner name: b'Erwin Neher'
+           a.c) Winner name: b'Bert Sakmann'
       a.b) Subject: Literature
-           a.c) Winner name: Nadine Gordimer
+           a.c) Winner name: b'Nadine Gordimer'
       a.b) Subject: Peace
-           a.c) Winner name: Aung San Suu Kyi
+           a.c) Winner name: b'Aung San Suu Kyi'
       a.b) Subject: Economics
-           a.c) Winner name: Ronald Coase
+           a.c) Winner name: b'Ronald Coase'
 
   92) Year: 1992
       a.b) Subject: Physics
-           a.c) Winner name: Georges Charpak
+           a.c) Winner name: b'Georges Charpak'
       a.b) Subject: Chemistry
-           a.c) Winner name: Rudolph A. Marcus
+           a.c) Winner name: b'Rudolph A. Marcus'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Edmond H. Fischer
-           a.c) Winner name: Edwin G. Krebs
+           a.c) Winner name: b'Edmond H. Fischer'
+           a.c) Winner name: b'Edwin G. Krebs'
       a.b) Subject: Literature
-           a.c) Winner name: Derek Walcott
+           a.c) Winner name: b'Derek Walcott'
       a.b) Subject: Peace
-           a.c) Winner name: Rigoberta Menchú
+           a.c) Winner name: b'Rigoberta Mench\xc3\xba'
       a.b) Subject: Economics
-           a.c) Winner name: Gary Becker
+           a.c) Winner name: b'Gary Becker'
 
   93) Year: 1993
       a.b) Subject: Physics
-           a.c) Winner name: Russell Alan Hulse
-           a.c) Winner name: Joseph Hooton Taylor, Jr.
+           a.c) Winner name: b'Russell Alan Hulse'
+           a.c) Winner name: b'Joseph Hooton Taylor, Jr.'
       a.b) Subject: Chemistry
-           a.c) Winner name: Kary Mullis
-           a.c) Winner name: Michael Smith (chemist)
+           a.c) Winner name: b'Kary Mullis'
+           a.c) Winner name: b'Michael Smith (chemist)'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Richard J. Roberts
-           a.c) Winner name: Phillip Allen Sharp
+           a.c) Winner name: b'Richard J. Roberts'
+           a.c) Winner name: b'Phillip Allen Sharp'
       a.b) Subject: Literature
-           a.c) Winner name: Toni Morrison
+           a.c) Winner name: b'Toni Morrison'
       a.b) Subject: Peace
-           a.c) Winner name: Nelson Mandela
-           a.c) Winner name: F. W. de Klerk
+           a.c) Winner name: b'Nelson Mandela'
+           a.c) Winner name: b'F. W. de Klerk'
       a.b) Subject: Economics
-           a.c) Winner name: Robert Fogel
-           a.c) Winner name: Douglass North
+           a.c) Winner name: b'Robert Fogel'
+           a.c) Winner name: b'Douglass North'
 
   94) Year: 1994
       a.b) Subject: Physics
-           a.c) Winner name: Bertram Brockhouse
-           a.c) Winner name: Clifford Shull
+           a.c) Winner name: b'Bertram Brockhouse'
+           a.c) Winner name: b'Clifford Shull'
       a.b) Subject: Chemistry
-           a.c) Winner name: George Andrew Olah
+           a.c) Winner name: b'George Andrew Olah'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Alfred G. Gilman
-           a.c) Winner name: Martin Rodbell
+           a.c) Winner name: b'Alfred G. Gilman'
+           a.c) Winner name: b'Martin Rodbell'
       a.b) Subject: Literature
-           a.c) Winner name: Kenzaburō Ōe
+           a.c) Winner name: b'Kenzabur\xc5\x8d \xc5\x8ce'
       a.b) Subject: Peace
-           a.c) Winner name: Yasser Arafat
-           a.c) Winner name: Shimon Peres
-           a.c) Winner name: Yitzhak Rabin
+           a.c) Winner name: b'Yasser Arafat'
+           a.c) Winner name: b'Shimon Peres'
+           a.c) Winner name: b'Yitzhak Rabin'
       a.b) Subject: Economics
-           a.c) Winner name: John Harsanyi
-           a.c) Winner name: John Forbes Nash, Jr.
-           a.c) Winner name: Reinhard Selten
+           a.c) Winner name: b'John Harsanyi'
+           a.c) Winner name: b'John Forbes Nash, Jr.'
+           a.c) Winner name: b'Reinhard Selten'
 
   95) Year: 1995
       a.b) Subject: Physics
-           a.c) Winner name: Martin Lewis Perl
-           a.c) Winner name: Frederick Reines
+           a.c) Winner name: b'Martin Lewis Perl'
+           a.c) Winner name: b'Frederick Reines'
       a.b) Subject: Chemistry
-           a.c) Winner name: Paul J. Crutzen
-           a.c) Winner name: Mario J. Molina
-           a.c) Winner name: Frank Sherwood Rowland
+           a.c) Winner name: b'Paul J. Crutzen'
+           a.c) Winner name: b'Mario J. Molina'
+           a.c) Winner name: b'Frank Sherwood Rowland'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Edward B. Lewis
-           a.c) Winner name: Christiane Nüsslein-Volhard
-           a.c) Winner name: Eric F. Wieschaus
+           a.c) Winner name: b'Edward B. Lewis'
+           a.c) Winner name: b'Christiane N\xc3\xbcsslein-Volhard'
+           a.c) Winner name: b'Eric F. Wieschaus'
       a.b) Subject: Literature
-           a.c) Winner name: Seamus Heaney
+           a.c) Winner name: b'Seamus Heaney'
       a.b) Subject: Peace
-           a.c) Winner name: Joseph Rotblat
+           a.c) Winner name: b'Joseph Rotblat'
       a.b) Subject: Economics
-           a.c) Winner name: Robert Lucas, Jr.
+           a.c) Winner name: b'Robert Lucas, Jr.'
 
   96) Year: 1996
       a.b) Subject: Physics
-           a.c) Winner name: David Lee (physicist)
-           a.c) Winner name: Douglas Osheroff
-           a.c) Winner name: Robert Coleman Richardson
+           a.c) Winner name: b'David Lee (physicist)'
+           a.c) Winner name: b'Douglas Osheroff'
+           a.c) Winner name: b'Robert Coleman Richardson'
       a.b) Subject: Chemistry
-           a.c) Winner name: Robert Curl
-           a.c) Winner name: Harry Kroto
-           a.c) Winner name: Richard Smalley
+           a.c) Winner name: b'Robert Curl'
+           a.c) Winner name: b'Harry Kroto'
+           a.c) Winner name: b'Richard Smalley'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Peter C. Doherty
-           a.c) Winner name: Rolf M. Zinkernagel
+           a.c) Winner name: b'Peter C. Doherty'
+           a.c) Winner name: b'Rolf M. Zinkernagel'
       a.b) Subject: Literature
-           a.c) Winner name: Wisława Szymborska
+           a.c) Winner name: b'Wis\xc5\x82awa Szymborska'
       a.b) Subject: Peace
-           a.c) Winner name: Carlos Filipe Ximenes Belo
-           a.c) Winner name: José Ramos-Horta
+           a.c) Winner name: b'Carlos Filipe Ximenes Belo'
+           a.c) Winner name: b'Jos\xc3\xa9 Ramos-Horta'
       a.b) Subject: Economics
-           a.c) Winner name: James Mirrlees
-           a.c) Winner name: William Vickrey
+           a.c) Winner name: b'James Mirrlees'
+           a.c) Winner name: b'William Vickrey'
 
   97) Year: 1997
       a.b) Subject: Physics
-           a.c) Winner name: Steven Chu
-           a.c) Winner name: Claude Cohen-Tannoudji
-           a.c) Winner name: William Daniel Phillips
+           a.c) Winner name: b'Steven Chu'
+           a.c) Winner name: b'Claude Cohen-Tannoudji'
+           a.c) Winner name: b'William Daniel Phillips'
       a.b) Subject: Chemistry
-           a.c) Winner name: Paul D. Boyer
-           a.c) Winner name: John E. Walker
-           a.c) Winner name: Jens Christian Skou
+           a.c) Winner name: b'Paul D. Boyer'
+           a.c) Winner name: b'John E. Walker'
+           a.c) Winner name: b'Jens Christian Skou'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Stanley B. Prusiner
+           a.c) Winner name: b'Stanley B. Prusiner'
       a.b) Subject: Literature
-           a.c) Winner name: Dario Fo
+           a.c) Winner name: b'Dario Fo'
       a.b) Subject: Peace
-           a.c) Winner name: Jody Williams
+           a.c) Winner name: b'Jody Williams'
       a.b) Subject: Economics
-           a.c) Winner name: Robert C. Merton
-           a.c) Winner name: Myron Scholes
+           a.c) Winner name: b'Robert C. Merton'
+           a.c) Winner name: b'Myron Scholes'
 
   98) Year: 1998
       a.b) Subject: Physics
-           a.c) Winner name: Robert B. Laughlin
-           a.c) Winner name: Horst Ludwig Störmer
-           a.c) Winner name: Daniel C. Tsui
+           a.c) Winner name: b'Robert B. Laughlin'
+           a.c) Winner name: b'Horst Ludwig St\xc3\xb6rmer'
+           a.c) Winner name: b'Daniel C. Tsui'
       a.b) Subject: Chemistry
-           a.c) Winner name: Walter Kohn
-           a.c) Winner name: John Pople
+           a.c) Winner name: b'Walter Kohn'
+           a.c) Winner name: b'John Pople'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Robert F. Furchgott
-           a.c) Winner name: Louis Ignarro
-           a.c) Winner name: Ferid Murad
+           a.c) Winner name: b'Robert F. Furchgott'
+           a.c) Winner name: b'Louis Ignarro'
+           a.c) Winner name: b'Ferid Murad'
       a.b) Subject: Literature
-           a.c) Winner name: José Saramago
+           a.c) Winner name: b'Jos\xc3\xa9 Saramago'
       a.b) Subject: Peace
-           a.c) Winner name: John Hume
-           a.c) Winner name: David Trimble
+           a.c) Winner name: b'John Hume'
+           a.c) Winner name: b'David Trimble'
       a.b) Subject: Economics
-           a.c) Winner name: Amartya Sen
+           a.c) Winner name: b'Amartya Sen'
 
   99) Year: 1999
       a.b) Subject: Physics
-           a.c) Winner name: Gerard 't Hooft
-           a.c) Winner name: Martinus J. G. Veltman
+           a.c) Winner name: b"Gerard 't Hooft"
+           a.c) Winner name: b'Martinus J. G. Veltman'
       a.b) Subject: Chemistry
-           a.c) Winner name: Ahmed Zewail
+           a.c) Winner name: b'Ahmed Zewail'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Günter Blobel
+           a.c) Winner name: b'G\xc3\xbcnter Blobel'
       a.b) Subject: Literature
-           a.c) Winner name: Günter Grass
+           a.c) Winner name: b'G\xc3\xbcnter Grass'
       a.b) Subject: Peace
       a.b) Subject: Economics
-           a.c) Winner name: Robert Mundell
+           a.c) Winner name: b'Robert Mundell'
 
   100) Year: 2000
       a.b) Subject: Physics
-           a.c) Winner name: Zhores Alferov
-           a.c) Winner name: Herbert Kroemer
-           a.c) Winner name: Jack Kilby
+           a.c) Winner name: b'Zhores Alferov'
+           a.c) Winner name: b'Herbert Kroemer'
+           a.c) Winner name: b'Jack Kilby'
       a.b) Subject: Chemistry
-           a.c) Winner name: Alan J. Heeger
-           a.c) Winner name: Alan MacDiarmid
-           a.c) Winner name: Hideki Shirakawa
+           a.c) Winner name: b'Alan J. Heeger'
+           a.c) Winner name: b'Alan MacDiarmid'
+           a.c) Winner name: b'Hideki Shirakawa'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Arvid Carlsson
-           a.c) Winner name: Paul Greengard
-           a.c) Winner name: Eric Kandel
+           a.c) Winner name: b'Arvid Carlsson'
+           a.c) Winner name: b'Paul Greengard'
+           a.c) Winner name: b'Eric Kandel'
       a.b) Subject: Literature
-           a.c) Winner name: Gao Xingjian
+           a.c) Winner name: b'Gao Xingjian'
       a.b) Subject: Peace
-           a.c) Winner name: Kim Dae-jung
+           a.c) Winner name: b'Kim Dae-jung'
       a.b) Subject: Economics
-           a.c) Winner name: James Heckman
-           a.c) Winner name: Daniel McFadden
+           a.c) Winner name: b'James Heckman'
+           a.c) Winner name: b'Daniel McFadden'
 
   101) Year: 2001
       a.b) Subject: Physics
-           a.c) Winner name: Eric Allin Cornell
-           a.c) Winner name: Wolfgang Ketterle
-           a.c) Winner name: Carl Wieman
+           a.c) Winner name: b'Eric Allin Cornell'
+           a.c) Winner name: b'Wolfgang Ketterle'
+           a.c) Winner name: b'Carl Wieman'
       a.b) Subject: Chemistry
-           a.c) Winner name: William Standish Knowles
-           a.c) Winner name: Ryōji Noyori
-           a.c) Winner name: Karl Barry Sharpless
+           a.c) Winner name: b'William Standish Knowles'
+           a.c) Winner name: b'Ry\xc5\x8dji Noyori'
+           a.c) Winner name: b'Karl Barry Sharpless'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Leland H. Hartwell
-           a.c) Winner name: Tim Hunt
-           a.c) Winner name: Paul Nurse
+           a.c) Winner name: b'Leland H. Hartwell'
+           a.c) Winner name: b'Tim Hunt'
+           a.c) Winner name: b'Paul Nurse'
       a.b) Subject: Literature
-           a.c) Winner name: V. S. Naipaul
+           a.c) Winner name: b'V. S. Naipaul'
       a.b) Subject: Peace
-           a.c) Winner name: Kofi Annan
+           a.c) Winner name: b'Kofi Annan'
       a.b) Subject: Economics
-           a.c) Winner name: George Akerlof
-           a.c) Winner name: Michael Spence
-           a.c) Winner name: Joseph Stiglitz
+           a.c) Winner name: b'George Akerlof'
+           a.c) Winner name: b'Michael Spence'
+           a.c) Winner name: b'Joseph Stiglitz'
 
   102) Year: 2002
       a.b) Subject: Physics
-           a.c) Winner name: Raymond Davis, Jr.
-           a.c) Winner name: Masatoshi Koshiba
-           a.c) Winner name: Riccardo Giacconi
+           a.c) Winner name: b'Raymond Davis, Jr.'
+           a.c) Winner name: b'Masatoshi Koshiba'
+           a.c) Winner name: b'Riccardo Giacconi'
       a.b) Subject: Chemistry
-           a.c) Winner name: John Fenn (chemist)
-           a.c) Winner name: Koichi Tanaka
-           a.c) Winner name: Kurt Wüthrich
+           a.c) Winner name: b'John Fenn (chemist)'
+           a.c) Winner name: b'Koichi Tanaka'
+           a.c) Winner name: b'Kurt W\xc3\xbcthrich'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Sydney Brenner
-           a.c) Winner name: H. Robert Horvitz
-           a.c) Winner name: John Sulston
+           a.c) Winner name: b'Sydney Brenner'
+           a.c) Winner name: b'H. Robert Horvitz'
+           a.c) Winner name: b'John Sulston'
       a.b) Subject: Literature
-           a.c) Winner name: Imre Kertész
+           a.c) Winner name: b'Imre Kert\xc3\xa9sz'
       a.b) Subject: Peace
-           a.c) Winner name: Jimmy Carter
+           a.c) Winner name: b'Jimmy Carter'
       a.b) Subject: Economics
-           a.c) Winner name: Daniel Kahneman
-           a.c) Winner name: Vernon L. Smith
+           a.c) Winner name: b'Daniel Kahneman'
+           a.c) Winner name: b'Vernon L. Smith'
 
   103) Year: 2003
       a.b) Subject: Physics
-           a.c) Winner name: Alexei Alexeyevich Abrikosov
-           a.c) Winner name: Vitaly Ginzburg
-           a.c) Winner name: Anthony James Leggett
+           a.c) Winner name: b'Alexei Alexeyevich Abrikosov'
+           a.c) Winner name: b'Vitaly Ginzburg'
+           a.c) Winner name: b'Anthony James Leggett'
       a.b) Subject: Chemistry
-           a.c) Winner name: Peter Agre
-           a.c) Winner name: Roderick MacKinnon
+           a.c) Winner name: b'Peter Agre'
+           a.c) Winner name: b'Roderick MacKinnon'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Paul Lauterbur
-           a.c) Winner name: Peter Mansfield
+           a.c) Winner name: b'Paul Lauterbur'
+           a.c) Winner name: b'Peter Mansfield'
       a.b) Subject: Literature
-           a.c) Winner name: J. M. Coetzee
+           a.c) Winner name: b'J. M. Coetzee'
       a.b) Subject: Peace
-           a.c) Winner name: Shirin Ebadi
+           a.c) Winner name: b'Shirin Ebadi'
       a.b) Subject: Economics
-           a.c) Winner name: Robert F. Engle
-           a.c) Winner name: Clive Granger
+           a.c) Winner name: b'Robert F. Engle'
+           a.c) Winner name: b'Clive Granger'
 
   104) Year: 2004
       a.b) Subject: Physics
-           a.c) Winner name: David Gross
-           a.c) Winner name: Hugh David Politzer
-           a.c) Winner name: Frank Wilczek
+           a.c) Winner name: b'David Gross'
+           a.c) Winner name: b'Hugh David Politzer'
+           a.c) Winner name: b'Frank Wilczek'
       a.b) Subject: Chemistry
-           a.c) Winner name: Aaron Ciechanover
-           a.c) Winner name: Avram Hershko
-           a.c) Winner name: Irwin Rose
+           a.c) Winner name: b'Aaron Ciechanover'
+           a.c) Winner name: b'Avram Hershko'
+           a.c) Winner name: b'Irwin Rose'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Richard Axel
-           a.c) Winner name: Linda B. Buck
+           a.c) Winner name: b'Richard Axel'
+           a.c) Winner name: b'Linda B. Buck'
       a.b) Subject: Literature
-           a.c) Winner name: Elfriede Jelinek
+           a.c) Winner name: b'Elfriede Jelinek'
       a.b) Subject: Peace
-           a.c) Winner name: Wangari Maathai
+           a.c) Winner name: b'Wangari Maathai'
       a.b) Subject: Economics
-           a.c) Winner name: Finn E. Kydland
-           a.c) Winner name: Edward C. Prescott
+           a.c) Winner name: b'Finn E. Kydland'
+           a.c) Winner name: b'Edward C. Prescott'
 
   105) Year: 2005
       a.b) Subject: Physics
-           a.c) Winner name: Roy J. Glauber
-           a.c) Winner name: John L. Hall
-           a.c) Winner name: Theodor W. Hänsch
+           a.c) Winner name: b'Roy J. Glauber'
+           a.c) Winner name: b'John L. Hall'
+           a.c) Winner name: b'Theodor W. H\xc3\xa4nsch'
       a.b) Subject: Chemistry
-           a.c) Winner name: Yves Chauvin
-           a.c) Winner name: Robert H. Grubbs
-           a.c) Winner name: Richard R. Schrock
+           a.c) Winner name: b'Yves Chauvin'
+           a.c) Winner name: b'Robert H. Grubbs'
+           a.c) Winner name: b'Richard R. Schrock'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Barry Marshall
-           a.c) Winner name: Robin Warren
+           a.c) Winner name: b'Barry Marshall'
+           a.c) Winner name: b'Robin Warren'
       a.b) Subject: Literature
-           a.c) Winner name: Harold Pinter
+           a.c) Winner name: b'Harold Pinter'
       a.b) Subject: Peace
-           a.c) Winner name: Mohamed ElBaradei
+           a.c) Winner name: b'Mohamed ElBaradei'
       a.b) Subject: Economics
-           a.c) Winner name: Robert Aumann
-           a.c) Winner name: Thomas Schelling
+           a.c) Winner name: b'Robert Aumann'
+           a.c) Winner name: b'Thomas Schelling'
 
   106) Year: 2006
       a.b) Subject: Physics
-           a.c) Winner name: John C. Mather
-           a.c) Winner name: George Smoot
+           a.c) Winner name: b'John C. Mather'
+           a.c) Winner name: b'George Smoot'
       a.b) Subject: Chemistry
-           a.c) Winner name: Roger D. Kornberg
+           a.c) Winner name: b'Roger D. Kornberg'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Andrew Fire
-           a.c) Winner name: Craig Mello
+           a.c) Winner name: b'Andrew Fire'
+           a.c) Winner name: b'Craig Mello'
       a.b) Subject: Literature
-           a.c) Winner name: Orhan Pamuk
+           a.c) Winner name: b'Orhan Pamuk'
       a.b) Subject: Peace
-           a.c) Winner name: Muhammad Yunus
+           a.c) Winner name: b'Muhammad Yunus'
       a.b) Subject: Economics
-           a.c) Winner name: Edmund Phelps
+           a.c) Winner name: b'Edmund Phelps'
 
   107) Year: 2007
       a.b) Subject: Physics
-           a.c) Winner name: Albert Fert
-           a.c) Winner name: Peter Grünberg
+           a.c) Winner name: b'Albert Fert'
+           a.c) Winner name: b'Peter Gr\xc3\xbcnberg'
       a.b) Subject: Chemistry
-           a.c) Winner name: Gerhard Ertl
+           a.c) Winner name: b'Gerhard Ertl'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Mario Capecchi
-           a.c) Winner name: Martin Evans
-           a.c) Winner name: Oliver Smithies
+           a.c) Winner name: b'Mario Capecchi'
+           a.c) Winner name: b'Martin Evans'
+           a.c) Winner name: b'Oliver Smithies'
       a.b) Subject: Literature
-           a.c) Winner name: Doris Lessing
+           a.c) Winner name: b'Doris Lessing'
       a.b) Subject: Peace
-           a.c) Winner name: Al Gore
+           a.c) Winner name: b'Al Gore'
       a.b) Subject: Economics
-           a.c) Winner name: Leonid Hurwicz
-           a.c) Winner name: Eric Maskin
-           a.c) Winner name: Roger Myerson
+           a.c) Winner name: b'Leonid Hurwicz'
+           a.c) Winner name: b'Eric Maskin'
+           a.c) Winner name: b'Roger Myerson'
 
   108) Year: 2008
       a.b) Subject: Physics
-           a.c) Winner name: Yoichiro Nambu
-           a.c) Winner name: Makoto Kobayashi (physicist)
-           a.c) Winner name: Toshihide Maskawa
+           a.c) Winner name: b'Yoichiro Nambu'
+           a.c) Winner name: b'Makoto Kobayashi (physicist)'
+           a.c) Winner name: b'Toshihide Maskawa'
       a.b) Subject: Chemistry
-           a.c) Winner name: Osamu Shimomura
-           a.c) Winner name: Martin Chalfie
-           a.c) Winner name: Roger Y. Tsien
+           a.c) Winner name: b'Osamu Shimomura'
+           a.c) Winner name: b'Martin Chalfie'
+           a.c) Winner name: b'Roger Y. Tsien'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Harald zur Hausen
-           a.c) Winner name: Françoise Barré-Sinoussi
-           a.c) Winner name: Luc Montagnier
+           a.c) Winner name: b'Harald zur Hausen'
+           a.c) Winner name: b'Fran\xc3\xa7oise Barr\xc3\xa9-Sinoussi'
+           a.c) Winner name: b'Luc Montagnier'
       a.b) Subject: Literature
-           a.c) Winner name: J. M. G. Le Clézio
+           a.c) Winner name: b'J. M. G. Le Cl\xc3\xa9zio'
       a.b) Subject: Peace
-           a.c) Winner name: Martti Ahtisaari
+           a.c) Winner name: b'Martti Ahtisaari'
       a.b) Subject: Economics
-           a.c) Winner name: Paul Krugman
+           a.c) Winner name: b'Paul Krugman'
 
   109) Year: 2009
       a.b) Subject: Physics
-           a.c) Winner name: Charles K. Kao
-           a.c) Winner name: Willard Boyle
-           a.c) Winner name: George E. Smith
+           a.c) Winner name: b'Charles K. Kao'
+           a.c) Winner name: b'Willard Boyle'
+           a.c) Winner name: b'George E. Smith'
       a.b) Subject: Chemistry
-           a.c) Winner name: Venkatraman Ramakrishnan
-           a.c) Winner name: Thomas A. Steitz
-           a.c) Winner name: Ada Yonath
+           a.c) Winner name: b'Venkatraman Ramakrishnan'
+           a.c) Winner name: b'Thomas A. Steitz'
+           a.c) Winner name: b'Ada Yonath'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Elizabeth Blackburn
-           a.c) Winner name: Carol W. Greider
-           a.c) Winner name: Jack W. Szostak
+           a.c) Winner name: b'Elizabeth Blackburn'
+           a.c) Winner name: b'Carol W. Greider'
+           a.c) Winner name: b'Jack W. Szostak'
       a.b) Subject: Literature
-           a.c) Winner name: Herta Müller
+           a.c) Winner name: b'Herta M\xc3\xbcller'
       a.b) Subject: Peace
-           a.c) Winner name: Barack Obama
+           a.c) Winner name: b'Barack Obama'
       a.b) Subject: Economics
-           a.c) Winner name: Elinor Ostrom
-           a.c) Winner name: Oliver E. Williamson
+           a.c) Winner name: b'Elinor Ostrom'
+           a.c) Winner name: b'Oliver E. Williamson'
 
   110) Year: 2010
       a.b) Subject: Physics
-           a.c) Winner name: Andre Geim
-           a.c) Winner name: Konstantin Novoselov
+           a.c) Winner name: b'Andre Geim'
+           a.c) Winner name: b'Konstantin Novoselov'
       a.b) Subject: Chemistry
-           a.c) Winner name: Richard F. Heck
-           a.c) Winner name: Ei-ichi Negishi
-           a.c) Winner name: Akira Suzuki (chemist)
+           a.c) Winner name: b'Richard F. Heck'
+           a.c) Winner name: b'Ei-ichi Negishi'
+           a.c) Winner name: b'Akira Suzuki (chemist)'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Robert G. Edwards
+           a.c) Winner name: b'Robert G. Edwards'
       a.b) Subject: Literature
-           a.c) Winner name: Mario Vargas Llosa
+           a.c) Winner name: b'Mario Vargas Llosa'
       a.b) Subject: Peace
-           a.c) Winner name: Liu Xiaobo
+           a.c) Winner name: b'Liu Xiaobo'
       a.b) Subject: Economics
-           a.c) Winner name: Peter Diamond
-           a.c) Winner name: Dale T. Mortensen
-           a.c) Winner name: Christopher A. Pissarides
+           a.c) Winner name: b'Peter Diamond'
+           a.c) Winner name: b'Dale T. Mortensen'
+           a.c) Winner name: b'Christopher A. Pissarides'
 
   111) Year: 2011
       a.b) Subject: Physics
-           a.c) Winner name: Saul Perlmutter
-           a.c) Winner name: Adam Riess
-           a.c) Winner name: Brian Schmidt
+           a.c) Winner name: b'Saul Perlmutter'
+           a.c) Winner name: b'Adam Riess'
+           a.c) Winner name: b'Brian Schmidt'
       a.b) Subject: Chemistry
-           a.c) Winner name: Dan Shechtman
+           a.c) Winner name: b'Dan Shechtman'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Bruce Beutler
-           a.c) Winner name: Jules A. Hoffmann
-           a.c) Winner name: Ralph M. Steinman
+           a.c) Winner name: b'Bruce Beutler'
+           a.c) Winner name: b'Jules A. Hoffmann'
+           a.c) Winner name: b'Ralph M. Steinman'
       a.b) Subject: Literature
-           a.c) Winner name: Tomas Tranströmer
+           a.c) Winner name: b'Tomas Transtr\xc3\xb6mer'
       a.b) Subject: Peace
-           a.c) Winner name: Ellen Johnson Sirleaf
-           a.c) Winner name: Leymah Gbowee
-           a.c) Winner name: Tawakel Karman
+           a.c) Winner name: b'Ellen Johnson Sirleaf'
+           a.c) Winner name: b'Leymah Gbowee'
+           a.c) Winner name: b'Tawakel Karman'
       a.b) Subject: Economics
-           a.c) Winner name: Thomas J. Sargent
-           a.c) Winner name: Christopher A. Sims
+           a.c) Winner name: b'Thomas J. Sargent'
+           a.c) Winner name: b'Christopher A. Sims'
 
   112) Year: 2012
       a.b) Subject: Physics
-           a.c) Winner name: Serge Haroche
-           a.c) Winner name: David J. Wineland
+           a.c) Winner name: b'Serge Haroche'
+           a.c) Winner name: b'David J. Wineland'
       a.b) Subject: Chemistry
-           a.c) Winner name: Brian Kobilka
-           a.c) Winner name: Robert Lefkowitz
+           a.c) Winner name: b'Brian Kobilka'
+           a.c) Winner name: b'Robert Lefkowitz'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: John Gurdon
-           a.c) Winner name: Shinya Yamanaka
+           a.c) Winner name: b'John Gurdon'
+           a.c) Winner name: b'Shinya Yamanaka'
       a.b) Subject: Literature
-           a.c) Winner name: Mo Yan
+           a.c) Winner name: b'Mo Yan'
       a.b) Subject: Peace
-           a.c) Winner name: European Union
+           a.c) Winner name: b'European Union'
       a.b) Subject: Economics
-           a.c) Winner name: Alvin E. Roth
-           a.c) Winner name: Lloyd Shapley
+           a.c) Winner name: b'Alvin E. Roth'
+           a.c) Winner name: b'Lloyd Shapley'
 
   113) Year: 2013
       a.b) Subject: Physics
-           a.c) Winner name: François Englert
-           a.c) Winner name: Peter Higgs
+           a.c) Winner name: b'Fran\xc3\xa7ois Englert'
+           a.c) Winner name: b'Peter Higgs'
       a.b) Subject: Chemistry
-           a.c) Winner name: Martin Karplus
-           a.c) Winner name: Michael Levitt
-           a.c) Winner name: Arieh Warshel
+           a.c) Winner name: b'Martin Karplus'
+           a.c) Winner name: b'Michael Levitt'
+           a.c) Winner name: b'Arieh Warshel'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: James Rothman
-           a.c) Winner name: Randy W. Schekman
-           a.c) Winner name: Thomas C. Südhof
+           a.c) Winner name: b'James Rothman'
+           a.c) Winner name: b'Randy W. Schekman'
+           a.c) Winner name: b'Thomas C. S\xc3\xbcdhof'
       a.b) Subject: Literature
-           a.c) Winner name: Alice Munro
+           a.c) Winner name: b'Alice Munro'
       a.b) Subject: Peace
-           a.c) Winner name: Organisation for the Prohibition of Chemical Weapons
+           a.c) Winner name: b'Organisation for the Prohibition of Chemical Weapons'
       a.b) Subject: Economics
-           a.c) Winner name: Eugene Fama
-           a.c) Winner name: Lars Peter Hansen
-           a.c) Winner name: Robert Shiller
+           a.c) Winner name: b'Eugene Fama'
+           a.c) Winner name: b'Lars Peter Hansen'
+           a.c) Winner name: b'Robert Shiller'
 
   114) Year: 2014
       a.b) Subject: Physics
-           a.c) Winner name: Isamu Akasaki
-           a.c) Winner name: Hiroshi Amano
-           a.c) Winner name: Shuji Nakamura
+           a.c) Winner name: b'Isamu Akasaki'
+           a.c) Winner name: b'Hiroshi Amano'
+           a.c) Winner name: b'Shuji Nakamura'
       a.b) Subject: Chemistry
-           a.c) Winner name: Eric Betzig
-           a.c) Winner name: Stefan Hell
-           a.c) Winner name: William Moerner
+           a.c) Winner name: b'Eric Betzig'
+           a.c) Winner name: b'Stefan Hell'
+           a.c) Winner name: b'William Moerner'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: John O'Keefe (neuroscientist)
-           a.c) Winner name: May-Britt Moser
-           a.c) Winner name: Edvard Moser
+           a.c) Winner name: b"John O'Keefe (neuroscientist)"
+           a.c) Winner name: b'May-Britt Moser'
+           a.c) Winner name: b'Edvard Moser'
       a.b) Subject: Literature
-           a.c) Winner name: Patrick Modiano
+           a.c) Winner name: b'Patrick Modiano'
       a.b) Subject: Peace
-           a.c) Winner name: Kailash Satyarthi
-           a.c) Winner name: Malala Yousafzai
+           a.c) Winner name: b'Kailash Satyarthi'
+           a.c) Winner name: b'Malala Yousafzai'
       a.b) Subject: Economics
-           a.c) Winner name: Jean Tirole
+           a.c) Winner name: b'Jean Tirole'
 
   115) Year: 2015
       a.b) Subject: Physics
-           a.c) Winner name: Takaaki Kajita
-           a.c) Winner name: Arthur B. McDonald
+           a.c) Winner name: b'Takaaki Kajita'
+           a.c) Winner name: b'Arthur B. McDonald'
       a.b) Subject: Chemistry
-           a.c) Winner name: Tomas Lindahl
-           a.c) Winner name: Paul Modrich
-           a.c) Winner name: Aziz Sancar
+           a.c) Winner name: b'Tomas Lindahl'
+           a.c) Winner name: b'Paul Modrich'
+           a.c) Winner name: b'Aziz Sancar'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: William C. Campbell (scientist)
-           a.c) Winner name: Satoshi Ōmura
-           a.c) Winner name: Tu Youyou
+           a.c) Winner name: b'William C. Campbell (scientist)'
+           a.c) Winner name: b'Satoshi \xc5\x8cmura'
+           a.c) Winner name: b'Tu Youyou'
       a.b) Subject: Literature
-           a.c) Winner name: Svetlana Alexievich
+           a.c) Winner name: b'Svetlana Alexievich'
       a.b) Subject: Peace
-           a.c) Winner name: Tunisian National Dialogue Quartet
+           a.c) Winner name: b'Tunisian National Dialogue Quartet'
       a.b) Subject: Economics
-           a.c) Winner name: Angus Deaton
+           a.c) Winner name: b'Angus Deaton'
 
   116) Year: 2016
       a.b) Subject: Physics
-           a.c) Winner name: David J. Thouless
-           a.c) Winner name: Duncan Haldane
-           a.c) Winner name: John M. Kosterlitz
+           a.c) Winner name: b'David J. Thouless'
+           a.c) Winner name: b'Duncan Haldane'
+           a.c) Winner name: b'John M. Kosterlitz'
       a.b) Subject: Chemistry
-           a.c) Winner name: Jean-Pierre Sauvage
-           a.c) Winner name: Fraser Stoddart
-           a.c) Winner name: Ben Feringa
+           a.c) Winner name: b'Jean-Pierre Sauvage'
+           a.c) Winner name: b'Fraser Stoddart'
+           a.c) Winner name: b'Ben Feringa'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Yoshinori Ohsumi
+           a.c) Winner name: b'Yoshinori Ohsumi'
       a.b) Subject: Literature
-           a.c) Winner name: Bob Dylan
+           a.c) Winner name: b'Bob Dylan'
       a.b) Subject: Peace
-           a.c) Winner name: Juan Manuel Santos
+           a.c) Winner name: b'Juan Manuel Santos'
       a.b) Subject: Economics
-           a.c) Winner name: Oliver Hart (economist)
-           a.c) Winner name: Bengt R. Holmström
+           a.c) Winner name: b'Oliver Hart (economist)'
+           a.c) Winner name: b'Bengt R. Holmstr\xc3\xb6m'
 
   117) Year: 2017
       a.b) Subject: Physics
-           a.c) Winner name: Rainer Weiss
-           a.c) Winner name: Barry Barish
-           a.c) Winner name: Kip Thorne
+           a.c) Winner name: b'Rainer Weiss'
+           a.c) Winner name: b'Barry Barish'
+           a.c) Winner name: b'Kip Thorne'
       a.b) Subject: Chemistry
-           a.c) Winner name: Jacques Dubochet
-           a.c) Winner name: Joachim Frank
-           a.c) Winner name: Richard Henderson (biologist)
+           a.c) Winner name: b'Jacques Dubochet'
+           a.c) Winner name: b'Joachim Frank'
+           a.c) Winner name: b'Richard Henderson (biologist)'
       a.b) Subject: Physiology or Medicine
-           a.c) Winner name: Jeffrey C. Hall
-           a.c) Winner name: Michael Rosbash
-           a.c) Winner name: Michael W. Young
+           a.c) Winner name: b'Jeffrey C. Hall'
+           a.c) Winner name: b'Michael Rosbash'
+           a.c) Winner name: b'Michael W. Young'
       a.b) Subject: Literature
-           a.c) Winner name: Kazuo Ishiguro
+           a.c) Winner name: b'Kazuo Ishiguro'
       a.b) Subject: Peace
-           a.c) Winner name: International Campaign to Abolish Nuclear Weapons
+           a.c) Winner name: b'International Campaign to Abolish Nuclear Weapons'
       a.b) Subject: Economics
-           a.c) Winner name: Richard Thaler
+           a.c) Winner name: b'Richard Thaler'
 

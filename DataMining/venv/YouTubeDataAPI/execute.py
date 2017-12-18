@@ -42,8 +42,8 @@ parameters['q'] = "Mark Udall"
 page = requests.request(method="get", url=url, params=parameters)
 j_results = json.loads(page.text)
 
-print page.text
-print "\n\n\n"
+print(page.text)
+print("\n\n\n")
 
 
 
@@ -57,10 +57,10 @@ url = "https://www.googleapis.com/youtube/v3/videos"
 
 page = requests.request(method="get", url=url, params=parameters)
 j_results = json.loads(page.text)
-print page.text
-print "\n\n\n"
+print(page.text)
+print("\n\n\n")
 
-
+plt.show()
 
 
 
@@ -177,7 +177,7 @@ candidates = ["Cory Gardner", "Mark Udall"] # Cory Gardner (R), Mark Udall (D)*
 colorado_2014_ds = get_2014_data(candidates)
 tpr = pd.pivot_table(colorado_2014_ds, values=["commentCount", "favoriteCount", "dislikeCount", "likeCount", "viewCount"], aggfunc='sum', index="candidate_name")
 
-print tpr, "\n\n"
+print(tpr, "\n\n")
 
 
 
@@ -299,8 +299,7 @@ plt.show()
 #-----------------------Nevada Senate - Heller vs. Berkley-------------------------#
 candidates = ["Dean Heller", "Shelley Berkley"] # Dean Heller (R)*Winnner, Shelley Berkley (D)
 nv_2012_ds = get_2012_data(candidates)
-print pd.pivot_table(nv_2012_ds, values=["commentCount", "favoriteCount", "dislikeCount", "likeCount", "viewCount"],
-               aggfunc='sum', index="candidate_name")
+print(pd.pivot_table(nv_2012_ds, values=["commentCount", "favoriteCount", "dislikeCount", "likeCount", "viewCount"], aggfunc='sum', index="candidate_name"))
 
 for candidate, color in zip(candidates, ["r", "b"]):
     cand = nv_2012_ds[nv_2012_ds["candidate_name"]==candidate]
@@ -358,7 +357,7 @@ plt.show()
 url = "http://www.senate.gov/general/contact_information/senators_cfm.xml"
 response = requests.get(url)
 tree = etree.fromstring(str(response.text))
-print tree, "\n\n"
+print(tree, "\n\n")
 
 member_full = [member.xpath("member_full")[0].text for member in tree.xpath("//member")]
 senators = pd.DataFrame(member_full, columns=["member_full"])
@@ -374,12 +373,12 @@ senators["website"] = [member.xpath("website")[0].text for member in tree.xpath(
 senators["bioguide_id"] = [member.xpath("bioguide_id")[0].text for member in tree.xpath("//member")]
 senators["class"] = [member.xpath("class")[0].text for member in tree.xpath("//member")]
 
-print senators, "\n\n"
+print(senators, "\n\n")
 
 
 by_party = senators["party"].value_counts()
 by_party.sort(ascending=False)
-print by_party
+print(by_party)
 
 color_dict = {"D": "b",
               "R": "r",
