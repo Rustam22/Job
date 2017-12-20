@@ -1,0 +1,17 @@
+@media (min-width: 768px) and (max-width: 990px) {
+  .navigation {
+    /*background: rgba(0, 0, 0, 0.3);*/ }
+    .navigation .navbar-brand {
+      float: none; } 
+}
+
+@media (max-width: 1050px) {
+    .happy-people {
+        margin-top: initial;
+        width: 100%;
+        margin-bottom: 35px;
+    }
+}
+@media (min-width: 1024px) {
+    
+}
