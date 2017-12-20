@@ -28,7 +28,3 @@ class HelloTemplate(TemplateView):
             return context
 
 
-
-
-
-
