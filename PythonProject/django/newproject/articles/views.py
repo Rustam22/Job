@@ -23,8 +23,12 @@ class HelloTemplate(TemplateView):
 
         def get_context_data(self, **kwargs):
             context = super(HelloTemplate, self).get_context_data(**kwargs)
-            context['name'] = 'Rustam'
-            print(context)
+            context['name'] = 'Shamrun'
+            context['surname'] = 'Karimov'
             return context
+
+
+
+
 
 
