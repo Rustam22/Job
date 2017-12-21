@@ -16,6 +16,9 @@ import os
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 
+Project_BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+#print('\n', Project_BASE_DIR)
+
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/2.0/howto/deployment/checklist/
 
@@ -38,6 +41,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'articles',
+    'accounts',
 ]
 
 MIDDLEWARE = [
@@ -56,7 +60,8 @@ TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
         'DIRS': [
-            '/home/rustam/Desktop/Projects/Job/PythonProject/django/newproject/templates'
+            '%s/templates' % (Project_BASE_DIR),
+            '%s/accounts/templates' % (Project_BASE_DIR),
         ],
         'APP_DIRS': True,
         'OPTIONS': {

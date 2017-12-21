@@ -19,8 +19,11 @@ from django.views.generic.base import TemplateView
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', include('articles.urls')),
+    path('articles/', include('articles.urls')),    #we cannot also put articles
     path('', TemplateView.as_view(template_name='index.html'), name='index'),  #default home page
+
+    #Accounts
+    path('accounts/', include('accounts.urls'))
 ]
 
 

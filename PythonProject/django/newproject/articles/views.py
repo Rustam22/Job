@@ -28,3 +28,16 @@ class HelloTemplate(TemplateView):
             return context
 
 
+
+#-----------------------------Advanced views and urls-----------------------------#
+
+''' 
+from . models import Article
+
+def articles(request):
+    return render_to_string('articles.html', {'articles': Article.objects.all()})
+
+def article(request, article_id=1):
+    return render_to_string('article.html', {'article': Article})
+
+'''
