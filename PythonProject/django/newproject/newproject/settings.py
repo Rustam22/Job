@@ -62,9 +62,10 @@ TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
         'DIRS': [
-            '%s/templates' % (Project_BASE_DIR),
-            '%s/accounts/templates' % (Project_BASE_DIR),
+            'templates',
+            #'%s/accounts/templates' % (Project_BASE_DIR),
         ],
+
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
