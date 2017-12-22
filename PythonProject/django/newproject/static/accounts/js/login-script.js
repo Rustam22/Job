@@ -19,4 +19,15 @@ $(function() {
         e.preventDefault();
     });
 
+    $('#register-form-link').click()
+    $('#register-submit').click(function() {
+        var  password_1 = $('#register-form #password').val().trim();
+        var  password_2 = $('#register-form #confirm-password').val().trim();
+
+        if(password_1 != password_2) {
+            alert('Passwords are not matching');
+            return false;
+        }
+
+    });
 });

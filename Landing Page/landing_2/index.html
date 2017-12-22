@@ -16,6 +16,25 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 ga('create', 'UA-101154194-1', 'auto');
 ga('send', 'pageview');
 </script>
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+ fbq('init', '1523964057695100'); 
+fbq('track', 'PageView');
+</script>
+<noscript>
+ <img height="1" width="1" 
+src="https://www.facebook.com/tr?id=1523964057695100&ev=PageView
+&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
 <!-- End Google Analytics -->
         <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
         <link rel="icon" href="favicon.ico" type="image/x-icon">
@@ -65,10 +84,6 @@ ga('send', 'pageview');
                 .hero-area .btn-main {
                     display: block;
                 }
-                .do-do {
-                    margin-left: 0% !important;
-                    width: 100% !important;
-                }
             }
             @media only screen and (max-width: 1000px) {
                 .chi-siamo .row .col-sm-12 {
@@ -87,15 +102,8 @@ ga('send', 'pageview');
             .promo-details .row ul li {
                 margin-bottom: 45px;
             }
-            .promo-details .row ul li img {
+            .promo-details .row ul li img {s
                 margin-right: 15px;
-            }
-            .do-do {
-                width: 115%; margin-left: -145px;
-
-            }
-            footer .menu {
-                margin-top: 0px !important;
             }
             @media only screen and (max-width: 1000px) {
                 .row .testimonial-block .author-details img {
@@ -131,10 +139,10 @@ ga('send', 'pageview');
                     <a href="#">HOME</a>
                   </li>
                   <li class="">
-                    <a href="/landing_3/buy.html">ACQUISTA</a>
+                    <a href="buy.html">ACQUISTA</a>
                   </li>
                   <li class="">
-                    <a href="/landing_3/contact">CONTATTACI</a>
+                    <a href="#contact">CONTATTACI</a>
                   </li>
                 </ul>
               </div>
@@ -146,7 +154,7 @@ ga('send', 'pageview');
 	        <div class="container">
 	            <div class="row">
                     <div class="col-md-6 text-center">
-                        <img width="100%" src="images/ridono_a_cena.jpg" alt=""  class="do-do">
+                        <img width="100%" src="images/viola.jpg" alt="">
                     </div>
 	                <div class="col-md-6">
 	                    <div class="block">
@@ -154,7 +162,7 @@ ga('send', 'pageview');
 	                            <p>
 	                        Ogni persona metabolizza gli alimenti in modo unico.<br/>
 Ti aiutiamo a capire come il tuo corpo reagisce al cibo che mangi leggendo il tuo genoma.</p>
-	                        <a class="btn btn-main cta" id="top" href="/landing_3/buy.html" role="button">Compra ora &euro;169</a>
+	                        <a class="btn btn-main cta" id="top" href="buy.html" role="button">Compra ora &euro;169</a>
 	                    </div>
 	                </div>
 	            </div><!-- .row close -->
@@ -164,12 +172,17 @@ Ti aiutiamo a capire come il tuo corpo reagisce al cibo che mangi leggendo il tu
 <section class="feature section">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-6 col-sm-12 text-center">
-                       <img src="images/swab.gif" width="100%">
-                    </div>
-                    <div class="col-md-6 col-sm-12">
+                    <!--<div class="col-md-6 col-sm-12 text-center embed-responsive embed-responsive-1by1" style="float: inherit;">
+                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zPQ0eTxMDgI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+                    </div>-->
+                    <div class="col-md-6 col-sm-12" style="width: 100%;">
                         <div class="content mt-100">
-                            <h2 class="subheading">Come fare il test Allelica</h2>
+                            <h2 class="subheading" style="text-align: center;">Come fare il test Allelica</h2>
+
+                            <div class="embed-responsive embed-responsive-16by9">
+                                <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zPQ0eTxMDgI"></iframe>
+                            </div>
+                            <br>
                             <p>Ricevi il kit con un tampone, utilizzalo e rimandacelo gratuitamente.<br/> Otterrai il report con tutte le tue informazioni per individuare le cause dei tuoi problemi alimentari e un piano nutrizionale personalizzato comodamente a casa tua.</p>
                         </div>
                     </div>
@@ -426,7 +439,7 @@ Allelica si impegna a fornirti le raccomandazioni scientifiche piu efficaci e ag
 La scienza genomica e' in continua evoluzione, se ci saranno delle modifiche alle informazioni fornite te lo comunicheremo immediatamente.<br>Ci impegnamo con te ad avere una relazione duratura e stabile in modo che avrai sempre le migliori informazioni per sapere come il tuo corpo reagisce al cibo che mangi. 
 </p>
                             <div class="col-lg-6 offset-lg-3">
-                                 <a class="btn btn-main cta" id="impegno" href="/landing_3/buy.html" role="button" style="margin-top:20px;">Compra ora &euro;169</a>
+                                 <a class="btn btn-main cta" id="impegno" href="buy.html" role="button" style="margin-top:20px;">Compra ora &euro;169</a>
                                 <!--div class="input-group">
                                   <input type="text" class="form-control" placeholder="Il tuo indirizzo email">
                                   <span class="input-group-btn">
@@ -535,13 +548,13 @@ al servizio della salute".
                                     <a href="#">HOME</a>
                                 </li>
                                 <li class="">
-                                    <a href="/landing_3//buy.html">ACQUISTA</a>
+                                    <a href="/buy.html">ACQUISTA</a>
                                 </li>
                                 <li class="">
-                                    <a href="/landing_3/contact.html">CONTATTACI</a>
+                                    <a href="/landing_2/contact.html">CONTATTACI</a>
                                 </li>
                             </ul>
-                            <p class="copyright-text">Copyright &copy; Allelica | All right reserved.</p>
+                            <p class="copyright-text">Copyright &copy;2017 Allelica | All right reserved.</p>
                             <p class="copyright-text">Templates is Copyright &copy; of<a href="http://www.Themefisher.com">Themefisher</a>| All right reserved.
                             <p class="copyright-text">
                             Icon made by freepick from <a href="http://www.flaticon.com" target="_blank">www.flaticon.com</a> </p>
@@ -550,7 +563,32 @@ al servizio della salute".
                 </div>
             </div>
         </footer>
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
 
+window.addEventListener("load", function(){
+
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#eeeeee",
+      "text": "333"
+    },
+    "button": {
+      "background": "#95c121",
+      "text": "#ffffff"
+    }
+  },
+  "content": {
+    "message": "Questo sito utilizza i cookie per garantirti una migliore esperienza di navogazione!\n",
+    "dismiss": "Ho capito!",
+    "link": "Più informazioni"
+  },
+  "theme": "edgeless"
+})});
+
+</script>
 
         <!-- Js -->
         <script src="js/vendor/jquery-2.1.1.min.js"></script>
