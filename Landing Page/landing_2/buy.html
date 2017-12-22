@@ -15,6 +15,25 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 ga('create', 'UA-101154194-1', 'auto');
 ga('send', 'pageview');
 </script>
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+ fbq('init', '1523964057695100'); 
+fbq('track', 'PageView');
+</script>
+<noscript>
+ <img height="1" width="1" 
+src="https://www.facebook.com/tr?id=1523964057695100&ev=PageView
+&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
         <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
         <link rel="icon" href="favicon.ico" type="image/x-icon">
         <!-- Fonts -->
@@ -140,12 +159,12 @@ ga('send', 'pageview');
 	        <div class="container">
 	            <div class="row">
                     <div class="col-md-6 text-center">
-                        <img src="http://antiaging.allelica.com/img/pack.jpg" width="400"><br><br>
-                        * Il packaging ricevuto potrebbe essere differente dall'immagine<br><br>
+                        <img src="http://www.allelica.com/landing_2/images/pack_2.png" width="100%"><br><br>
+                        <br>
                          <input type="checkbox" id="terms"><span>Ho letto e accettato l'informativa su <a href="http://www.allelica.com/condizioni-di-vendita.html" target="_blank">termini e condizioni di acquisto</a>  </span>        
                          <script src="https://checkout.stripe.com/checkout.js"></script>
 <br>
-<button id="customButton" class="btn btn-main" style="margin-bottom: 25px;">Acquista ora</button>
+<button id="customButton" class="btn btn-main" style="margin-bottom: 25px;">Acquista ora &euro;169</button>
 <form id="payment" method="post" action="thanks.php">
     <input type="hidden" value="" name="token" id="token">
 </form>
@@ -160,17 +179,25 @@ Oppure paga con paypal
                     </div>
 	                <div class="col-md-6">
 	                    <div class="block">
-	                        <h1 class="subheading" style="text-transofrm:none;">Effetta subito il test del DNA</h1>
+	                        <h1 class="subheading" style="text-transofrm:none;margin-top:0;">Effetta subito il test del DNA</h1>
 	                        <h2>Cosa scoprirai:</h2>
                             <ul>
-                                <li>Metabolismo dei carboidrati</li>
-                                <li>Metabolismo dei grassi</li>
-                                <li>Intolleraza al lattosio</li>
-                                <li>Sensibilità alla caffeina<li>
-                                <li>Predisposizione alla celiachia</li>
-                                <li>Predisposizione alle malattie del metabolismo alimentare</li>
+                                <li>Quali cibi magiare per minimizzare i tuoi sintomi indesiderati.</li>
+                                <li>Quali e quanti carboidrati il tuo corpo digerisce e metabolizza al meglio.</li>
+                                <li>La quantità massima di grassi che dovresti assumere giornalmente.</li>
+                                <li>Se sei intollerante al lattosio.<li>
+                                <li>Se puoi diventare celiaco.</li>
+                                <li>Quanta caffeina il tuo organismo può assumere giornalmente.</li>
+                                <li>Quanti cibi grigliati o affumicati puoi mangiare con serenità ogni settimana.</li>
+                                <li>Di quali vitamine il tuo corpo ha più necessità per sentirsi al meglio.</li>
+                                <li>Le tua probabilità di sviluppare malattie del metabolismo alimentare.</li>
                             </ul>
-	                    </div>
+                            <h2>Cosa riceverai:</h2>
+                            <ul>
+                                <li>Report dettagliato</li>
+                                <li>Piano nutrizionale personalizzato basato sulla tua genetica</li>
+                            </ul>
+                        </div>
 	                </div>
 	            </div><!-- .row close -->
 	        </div><!-- .container close -->
@@ -182,19 +209,19 @@ Oppure paga con paypal
                 <div class="row">
                     <div class="col-md-12">
                         <div class="block">
-                            <a href="" class="footer-logo">Allelica</a>
+                            <a href="" class="footer-logo">Allelica</a><br>
                             <ul class="menu">
                                 <li class="">
-                                    <a href="/index.html">HOME</a>
+                                    <a href="index.html">HOME</a>
                                 </li>
                                 <li class="active">
                                     <a href="#">ACQUISTA</a>
                                 </li>
                                 <li class="">
-                                    <a href="/contact.html">CONTATTACI</a>
+                                    <a href="contact.html">CONTATTACI</a>
                                 </li>
                             </ul>
-                            <p class="copyright-text">Copyright &copy; Allelica | All right reserved.</p>
+                            <p class="copyright-text">Copyright &copy; 2017 Allelica | All right reserved.</p>
                             <p class="copyright-text">Templates is Copyright &copy; of<a href="http://www.Themefisher.com">Themefisher</a>| All right reserved.
                             <p class="copyright-text">
                             Icon made by freepick from <a href="http://www.flaticon.com" target="_blank">www.flaticon.com</a> </p>
@@ -204,7 +231,32 @@ Oppure paga con paypal
             </div>
         </footer>
 
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
 
+window.addEventListener("load", function(){
+
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#eeeeee",
+      "text": "333"
+    },
+    "button": {
+      "background": "#95c121",
+      "text": "#ffffff"
+    }
+  },
+  "content": {
+    "message": "Questo sito utilizza i cookie per garantirti una migliore esperienza di navogazione!\n",
+    "dismiss": "Ho capito!",
+    "link": "Più informazioni"
+  },
+  "theme": "edgeless"
+})});
+
+</script>
         <!-- Js -->
         <script src="js/vendor/jquery-2.1.1.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.3.7/js/tether.min.js" integrity="sha384-XTs3FgkjiBgo8qjEjBk0tGmf3wPrWtA6coPfQDfFEY8AnYJwjalXCiosYRBIBZX8" crossorigin="anonymous"></script>
@@ -213,6 +265,10 @@ Oppure paga con paypal
         <script src="js/owl.carousel.min.js"></script>
         <script src="js/jquery.magnific-popup.min.js"></script>
         <script src="js/main.js"></script>
-        
+        <script>
+            if(getCookie('buy') == '') {
+    setCookie('buy','visited',365)
+}
+        </script>
     </body>
 </html>
