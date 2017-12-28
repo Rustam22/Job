@@ -1,0 +1,21 @@
+{% extends "accounts/base.html" %}
+
+<title>{% block title %}Register Form{% endblock %}</title>
+
+{% block register %}
+    <h2>
+        <pre>
+            {{requestData}}
+        </pre>
+        <pre>
+            {{requestPostData}}
+        </pre>
+    </h2>
+
+
+    <form method="post">
+        {% csrf_token %}
+        {{ form }}
+        <button type="submit">Submit</button>
+    </form>
+{% endblock %}
