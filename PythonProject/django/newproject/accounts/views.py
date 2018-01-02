@@ -51,8 +51,6 @@ def userForm(request):
     return HttpResponse(html)
 
 def registration(request):
-    context = {}
-    context['requestData'] = request
-    context['requestPostData'] = request.POST
+    context = {'requestData': request, 'requestPostData': request.POST}
 
     return HttpResponse(render_to_string('accounts/userForm.html', context, request))
