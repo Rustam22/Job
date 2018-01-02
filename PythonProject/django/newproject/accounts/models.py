@@ -1,14 +1,13 @@
 from django.db import models
 from datetime import datetime
-from django.contrib.auth.models import User, AbstractBaseUser
+from django.contrib.auth.models import User
 from django import forms
 from django.db.models.signals import post_save
 
-
 # Create your models here.
 
-'''
-class UserProfileing(models.Model):
+
+class UserProfile(models.Model):
     user = models.OneToOneField(
         User,
         on_delete=models.CASCADE
@@ -17,18 +16,21 @@ class UserProfileing(models.Model):
     lastName = models.CharField(max_length=254, default='')
     email = models.EmailField(max_length=354)
     password = models.CharField(max_length=32)
-    date = models.DateTimeField(default=datetime.now, blank=True) 
-'''
+    date = models.DateTimeField(default=datetime.now, blank=True)
+
+def create_profile(sender, **kwargs):
+    if kwargs['created']:
+        user_profile = UserProfile.objects.create(user=kwargs['instance'])
+
+post_save.connect(create_profile, sender=User)
+
 
 
 "--------------------Registration models--------------------"
-class UserForm(AbstractBaseUser):
 
-    USERNAME_FIELD = 'username'
-    username = models.CharField(max_length=154, default='', db_column='username')
-    surname = models.CharField(max_length=254, default='', db_column='surname')
-    email = models.EmailField(max_length=354, db_column='email')
-    password = models.CharField(max_length=554, db_column='password')
+class UserForm(models.Model):
+    username = models.CharField(max_length=154, default='')
+    surname = models.CharField(max_length=254, default='')
+    email = models.EmailField(max_length=354)
+    password = models.CharField(max_length=554)
     date = models.DateTimeField(default=datetime.now, blank=True)
-
-
