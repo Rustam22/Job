@@ -4,7 +4,9 @@ from django.shortcuts import redirect
 from django.contrib.auth import login, authenticate
 from django.contrib.auth.forms import UserCreationForm
 
-from .forms import TestRegistrationForm, UserForm, RegistrationFrom, SignUpForm
+from .forms import (
+    TestRegistrationForm, UserForm, RegistrationForm, SignUpForm
+)
 
 # Create your views here.
 
@@ -18,7 +20,7 @@ def signup(request):
     context = {'requestData': request, 'requestPostData': request.POST}
 
     if request.method == 'POST':
-        form = SignUpForm(request.POST)
+        form = RegistrationForm(request.POST)
         if form.is_valid():
             context['status'] = 'login'
             context['form'] = form

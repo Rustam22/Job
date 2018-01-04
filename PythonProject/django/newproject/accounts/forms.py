@@ -1,7 +1,9 @@
 from django import forms
 from django.contrib.auth.models import User
 from django.contrib.auth.forms import UserCreationForm
-from .models import UserForm
+from .models import (
+    UserForm, SiteUser
+)
 
 
 
@@ -32,6 +34,7 @@ class TestRegistrationForm(UserCreationForm):
 
 
 # --------------------------------- My registration form --------------------------------- #
+'''
 class RegistrationFrom(UserCreationForm):
     email = forms.EmailField(required=True)
     username = forms.EmailField(required=True)
@@ -56,6 +59,7 @@ class RegistrationFrom(UserCreationForm):
             user.save()
 
         return user
+'''
 
 
 class SignUpForm(UserCreationForm):
@@ -74,6 +78,28 @@ class SignUpForm(UserCreationForm):
         user.email = self.cleaned_data['email']
         user.set_password(self.cleaned_data["password1"])
 
+
+        if commit:
+            user.save()
+
+        return user
+
+
+class RegistrationForm(UserCreationForm):
+
+    class Meta:
+        model = SiteUser
+        fields = ['username', 'surname', 'email', 'password1', 'password2']
+        widgets = {
+            'password1': forms.PasswordInput(),
+        }
+
+    def save(self, commit=True):
+        user = super(RegistrationForm, self).save(commit=False)
+        user.username = self.cleaned_data['username']
+        user.surname = self.cleaned_data['surname']
+        user.email = self.cleaned_data['email']
+        user.set_password(self.cleaned_data["password1"])
 
         if commit:
             user.save()
