@@ -1,7 +1,5 @@
 from django.contrib import admin
-from .models import (
-    UserForm, User
-)
+from .models import UserProfile, UserForm
 
 # Register your models here.
 admin.site.register(UserProfile)
