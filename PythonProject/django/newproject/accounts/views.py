@@ -2,8 +2,15 @@ from django.http import HttpResponse
 from django.template.loader import render_to_string
 from django.contrib.auth import login
 from django.contrib.auth.forms import UserCreationForm
+<<<<<<< HEAD
 from django.shortcuts import redirect
 from .forms import RegistrationForm
+=======
+
+from .forms import (
+    TestRegistrationForm, UserForm, RegistrationForm, SignUpForm
+)
+>>>>>>> master
 
 # Create your views here.
 
