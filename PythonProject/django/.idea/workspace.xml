@@ -92,7 +92,7 @@
             <state relative-caret-position="579">
               <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
               <folding>
-                <element signature="e#0#24#0" expanded="true" />
+                <element signature="e#0#28#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -113,6 +113,16 @@
           <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
             <state>
               <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="register.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/newproject/templates/accounts/register.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="19" column="11" lean-forward="false" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -179,6 +189,7 @@
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/ebe5a721-7632-406e-a57f-e5d7e143bbc2/console_1.sql" />
         <option value="$PROJECT_DIR$/newproject/accounts/urls.py" />
         <option value="$PROJECT_DIR$/newproject/accounts/models.py" />
+        <option value="$PROJECT_DIR$/newproject/accounts/urls.py" />
         <option value="$PROJECT_DIR$/newproject/templates/accounts/userForm.html" />
         <option value="$PROJECT_DIR$/newproject/accounts/views.py" />
       </list>
@@ -280,7 +291,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.forms">
+  <component name="RunManager" selected="Python.models">
     <configuration name="userForm.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/django/newproject/templates/accounts/userForm.html" />
     <configuration name="admin" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -836,13 +847,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/newproject/templates/accounts/register.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        <state relative-caret-position="522">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/newproject/articles/urls.py">
+    <entry file="file://$PROJECT_DIR$/newproject/templates/accounts/register.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -862,8 +873,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/newproject/templates/accounts/register.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-162">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="486">
+          <caret line="29" column="19" lean-forward="false" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
           <folding>
             <element signature="e#0#53#0" expanded="false" />
           </folding>
@@ -901,7 +912,7 @@
         <state relative-caret-position="579">
           <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
           <folding>
-            <element signature="e#0#24#0" expanded="true" />
+            <element signature="e#0#28#0" expanded="true" />
           </folding>
         </state>
       </provider>
