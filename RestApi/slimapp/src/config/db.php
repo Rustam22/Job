@@ -7,14 +7,20 @@
         private $dbuser = 'root';
         private $dbpass = '';
         private $dbname = 'slim_db';
+        private $dbConnection;
 
         //Connect
-        public function connect() {
+        public function connect($close = true) {
             $mysql_connect_str = 'mysql:host='.$this->dbhost.';dbname='.$this->dbname.'';
-            $dbConnection = new PDO($mysql_connect_str, $this->dbuser, $this->dbpass);
-            $dbConnection->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+            $this->dbConnection = new PDO($mysql_connect_str, $this->dbuser, $this->dbpass);
+            $this->dbConnection->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
-            return $dbConnection;
+            if(!$close) {
+                $this->dbConnection = null;
+                return $this->dbConnection;
+            }
+
+            return $this->dbConnection;
         }
 
 
@@ -25,5 +31,9 @@
             } else {
                 return false;
             }
+        }
+
+        public function dbClose() {
+            $this->dbConnection->close();
         }
     }
